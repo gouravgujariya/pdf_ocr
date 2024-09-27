@@ -1,0 +1,1001 @@
+Reel ID,Product ID,User ID,Category,Hashtags,Keywords,Visual Features,Likes,Shares,Comments,Purchase Count
+reel_1,product_640,user_20,Fashion,"#trending, #shopnow, #discount",affordable,colorful,102,364,102,12
+reel_2,product_26,user_138,Beauty,#sale,"popular, affordable",modern,435,4,272,136
+reel_3,product_276,user_109,Electronics,"#sale, #new","stylish, exclusive, affordable",vintage,860,118,13,163
+reel_4,product_224,user_196,Electronics,"#sale, #shopnow","affordable, popular, exclusive",minimalistic,270,288,158,85
+reel_5,product_737,user_72,Fashion,"#trending, #discount","affordable, exclusive, innovative",colorful,106,373,151,89
+reel_6,product_677,user_80,Sports,#sale,"stylish, affordable",colorful,71,64,107,57
+reel_7,product_893,user_38,Sports,"#sale, #new, #discount","exclusive, popular, innovative",luxury,700,145,187,53
+reel_8,product_87,user_25,Sports,"#discount, #sale, #trending","innovative, exclusive, affordable",minimalistic,20,223,97,11
+reel_9,product_422,user_170,Beauty,"#trending, #discount, #sale","innovative, affordable",vintage,614,238,130,13
+reel_10,product_30,user_91,Home Decor,#sale,"stylish, exclusive, popular",luxury,121,176,292,120
+reel_11,product_219,user_133,Home Decor,"#trending, #shopnow",popular,minimalistic,466,266,170,161
+reel_12,product_506,user_129,Sports,"#shopnow, #new",exclusive,minimalistic,214,340,182,180
+reel_13,product_27,user_120,Sports,"#new, #shopnow, #sale",popular,colorful,330,281,38,120
+reel_14,product_199,user_5,Beauty,#sale,"innovative, affordable",modern,458,62,14,19
+reel_15,product_650,user_158,Beauty,"#shopnow, #discount","innovative, stylish",minimalistic,87,216,3,74
+reel_16,product_545,user_49,Electronics,#sale,exclusive,vintage,372,341,209,143
+reel_17,product_221,user_26,Home Decor,"#sale, #discount",stylish,colorful,99,314,160,69
+reel_18,product_590,user_113,Fashion,#new,"innovative, stylish, affordable",modern,871,282,15,55
+reel_19,product_810,user_14,Electronics,"#shopnow, #discount, #sale",stylish,colorful,663,176,107,100
+reel_20,product_7,user_154,Beauty,#sale,"innovative, popular, affordable",vintage,130,460,226,185
+reel_21,product_806,user_42,Home Decor,#trending,"exclusive, innovative, stylish",luxury,661,416,169,131
+reel_22,product_699,user_44,Sports,"#new, #sale, #trending","innovative, affordable, exclusive",vintage,308,97,33,110
+reel_23,product_341,user_174,Electronics,#new,"stylish, popular",colorful,769,104,250,124
+reel_24,product_156,user_66,Beauty,"#discount, #shopnow","popular, affordable",modern,343,98,246,131
+reel_25,product_958,user_30,Sports,"#new, #sale, #shopnow","innovative, stylish",colorful,491,384,268,19
+reel_26,product_337,user_181,Sports,"#discount, #trending, #shopnow","stylish, popular",colorful,413,404,140,137
+reel_27,product_93,user_1,Home Decor,"#new, #trending","affordable, stylish",vintage,805,495,273,23
+reel_28,product_97,user_172,Sports,"#sale, #new","affordable, innovative",minimalistic,385,310,95,153
+reel_29,product_848,user_29,Home Decor,"#discount, #new","stylish, popular",minimalistic,191,5,226,36
+reel_30,product_604,user_26,Fashion,#new,exclusive,luxury,955,475,38,53
+reel_31,product_808,user_51,Electronics,"#sale, #trending, #new","innovative, popular",minimalistic,276,464,28,102
+reel_32,product_730,user_35,Electronics,"#sale, #shopnow, #new",innovative,minimalistic,160,196,244,148
+reel_33,product_537,user_133,Beauty,"#shopnow, #discount","popular, innovative, affordable",colorful,459,350,235,37
+reel_34,product_974,user_6,Sports,"#trending, #sale, #shopnow","stylish, popular, affordable",colorful,313,132,184,173
+reel_35,product_379,user_3,Sports,"#discount, #shopnow, #new","stylish, exclusive",vintage,21,357,271,3
+reel_36,product_553,user_158,Fashion,#discount,stylish,colorful,252,258,235,187
+reel_37,product_830,user_48,Beauty,"#sale, #discount","affordable, popular, stylish",colorful,747,436,238,56
+reel_38,product_619,user_65,Fashion,"#sale, #trending, #shopnow","innovative, stylish",luxury,856,22,265,172
+reel_39,product_862,user_35,Electronics,"#trending, #shopnow",popular,minimalistic,560,484,64,19
+reel_40,product_578,user_11,Beauty,#trending,"innovative, affordable",colorful,474,52,176,16
+reel_41,product_705,user_149,Beauty,#sale,"exclusive, stylish",minimalistic,58,164,2,118
+reel_42,product_46,user_106,Sports,"#sale, #discount","popular, exclusive, innovative",colorful,510,201,141,70
+reel_43,product_228,user_150,Fashion,#trending,"stylish, innovative",minimalistic,681,457,157,3
+reel_44,product_290,user_96,Beauty,"#new, #shopnow, #discount",popular,minimalistic,475,82,145,13
+reel_45,product_80,user_156,Beauty,#sale,"popular, stylish, affordable",colorful,699,144,292,2
+reel_46,product_233,user_103,Home Decor,"#shopnow, #discount","affordable, exclusive, popular",vintage,975,84,152,79
+reel_47,product_102,user_22,Home Decor,"#new, #shopnow, #discount","popular, stylish",modern,782,77,192,185
+reel_48,product_278,user_101,Sports,"#sale, #discount","stylish, affordable, popular",colorful,189,456,72,54
+reel_49,product_636,user_190,Electronics,#discount,"stylish, popular",luxury,957,365,139,131
+reel_50,product_365,user_9,Sports,#trending,"innovative, exclusive",luxury,686,0,186,119
+reel_51,product_371,user_157,Fashion,"#shopnow, #sale, #discount","stylish, popular, affordable",modern,957,50,292,23
+reel_52,product_210,user_174,Sports,"#sale, #new, #discount",affordable,minimalistic,562,172,60,161
+reel_53,product_267,user_105,Sports,"#discount, #new","popular, stylish, affordable",modern,875,204,197,157
+reel_54,product_937,user_92,Fashion,"#discount, #shopnow","affordable, popular, stylish",minimalistic,566,259,294,81
+reel_55,product_649,user_193,Sports,#trending,"popular, innovative, stylish",modern,243,445,10,146
+reel_56,product_610,user_13,Home Decor,"#discount, #trending",innovative,vintage,831,448,61,158
+reel_57,product_172,user_96,Electronics,"#shopnow, #discount, #sale",exclusive,vintage,504,368,225,187
+reel_58,product_730,user_81,Beauty,"#new, #trending",popular,colorful,130,487,152,59
+reel_59,product_164,user_138,Electronics,#discount,"stylish, affordable",minimalistic,484,287,198,146
+reel_60,product_380,user_99,Sports,"#new, #sale","exclusive, popular",minimalistic,818,33,51,48
+reel_61,product_990,user_182,Home Decor,"#new, #shopnow",stylish,colorful,646,347,259,62
+reel_62,product_640,user_15,Beauty,"#discount, #sale","stylish, affordable",luxury,20,94,58,109
+reel_63,product_557,user_17,Electronics,#trending,"stylish, popular, exclusive",luxury,840,71,71,149
+reel_64,product_685,user_122,Home Decor,"#discount, #new",exclusive,minimalistic,166,38,147,151
+reel_65,product_843,user_14,Electronics,"#discount, #sale","exclusive, innovative",colorful,273,153,62,108
+reel_66,product_776,user_56,Electronics,#discount,"exclusive, innovative, stylish",vintage,387,249,242,75
+reel_67,product_230,user_127,Home Decor,#discount,innovative,luxury,600,161,106,29
+reel_68,product_33,user_110,Home Decor,"#discount, #new, #sale","stylish, popular",colorful,315,437,225,57
+reel_69,product_316,user_66,Fashion,"#trending, #sale, #shopnow","stylish, innovative, affordable",vintage,13,117,217,116
+reel_70,product_268,user_199,Sports,"#shopnow, #discount, #sale","innovative, stylish, popular",minimalistic,241,258,240,158
+reel_71,product_211,user_107,Home Decor,"#shopnow, #sale, #discount","stylish, affordable, exclusive",vintage,776,378,258,99
+reel_72,product_943,user_91,Sports,#trending,"exclusive, innovative",minimalistic,345,305,261,191
+reel_73,product_877,user_122,Sports,#trending,"stylish, exclusive, popular",colorful,564,267,4,18
+reel_74,product_315,user_20,Electronics,#discount,"exclusive, innovative",luxury,897,448,260,175
+reel_75,product_656,user_141,Home Decor,#new,innovative,modern,339,53,53,172
+reel_76,product_396,user_171,Home Decor,"#trending, #new, #shopnow","affordable, popular",luxury,91,235,46,93
+reel_77,product_915,user_131,Electronics,"#shopnow, #discount","stylish, innovative",colorful,366,388,214,182
+reel_78,product_459,user_154,Fashion,"#sale, #shopnow, #discount","innovative, stylish",colorful,955,477,176,112
+reel_79,product_265,user_145,Electronics,"#discount, #shopnow","innovative, affordable, stylish",minimalistic,454,221,8,182
+reel_80,product_247,user_44,Sports,#discount,affordable,vintage,427,250,98,145
+reel_81,product_562,user_91,Home Decor,"#shopnow, #new, #trending",popular,luxury,508,312,19,62
+reel_82,product_263,user_46,Home Decor,#new,affordable,modern,775,400,240,115
+reel_83,product_585,user_68,Fashion,"#sale, #new, #shopnow","innovative, popular, stylish",vintage,942,111,60,112
+reel_84,product_898,user_91,Electronics,"#sale, #trending","stylish, innovative, exclusive",colorful,34,254,177,46
+reel_85,product_400,user_84,Electronics,"#trending, #shopnow, #new","exclusive, popular, stylish",modern,205,302,61,56
+reel_86,product_220,user_20,Sports,#trending,popular,modern,80,406,144,117
+reel_87,product_998,user_86,Home Decor,"#discount, #sale",stylish,minimalistic,931,206,215,44
+reel_88,product_510,user_134,Beauty,"#sale, #discount, #shopnow",innovative,luxury,561,228,2,160
+reel_89,product_91,user_75,Beauty,"#trending, #sale, #discount",exclusive,colorful,871,340,159,144
+reel_90,product_48,user_31,Electronics,"#shopnow, #new","popular, exclusive",modern,387,397,226,197
+reel_91,product_110,user_185,Sports,"#new, #discount, #trending","innovative, exclusive, stylish",luxury,1,65,268,3
+reel_92,product_628,user_14,Sports,"#discount, #new","affordable, popular, innovative",vintage,389,74,119,147
+reel_93,product_793,user_167,Beauty,#discount,innovative,minimalistic,565,434,88,46
+reel_94,product_423,user_19,Home Decor,"#shopnow, #discount","stylish, innovative, affordable",luxury,105,102,67,142
+reel_95,product_64,user_20,Fashion,"#sale, #shopnow, #new","exclusive, stylish",minimalistic,771,421,97,197
+reel_96,product_382,user_148,Beauty,"#new, #shopnow, #trending","affordable, exclusive, innovative",luxury,821,191,266,46
+reel_97,product_997,user_163,Fashion,"#sale, #discount, #shopnow",exclusive,vintage,476,251,104,77
+reel_98,product_530,user_112,Beauty,"#new, #shopnow",innovative,colorful,702,225,122,123
+reel_99,product_972,user_118,Home Decor,"#new, #shopnow",exclusive,luxury,401,293,28,74
+reel_100,product_861,user_113,Sports,#trending,exclusive,colorful,729,305,136,102
+reel_101,product_12,user_66,Home Decor,"#trending, #sale, #new","exclusive, innovative",modern,555,97,194,136
+reel_102,product_721,user_25,Beauty,"#new, #trending","innovative, affordable",modern,161,337,225,89
+reel_103,product_682,user_71,Fashion,"#sale, #discount, #trending",innovative,vintage,201,285,169,143
+reel_104,product_537,user_134,Fashion,"#discount, #shopnow",innovative,vintage,957,334,8,68
+reel_105,product_267,user_151,Sports,"#sale, #trending","popular, exclusive, stylish",modern,995,346,39,60
+reel_106,product_641,user_174,Sports,"#trending, #discount",stylish,minimalistic,269,434,24,137
+reel_107,product_112,user_145,Beauty,"#new, #shopnow, #sale",affordable,modern,862,446,260,49
+reel_108,product_435,user_194,Beauty,"#shopnow, #trending, #discount","innovative, popular",modern,815,481,225,2
+reel_109,product_454,user_121,Home Decor,#discount,"affordable, popular",colorful,270,307,123,106
+reel_110,product_954,user_71,Sports,#new,stylish,minimalistic,455,248,37,112
+reel_111,product_876,user_116,Electronics,"#shopnow, #trending, #new","stylish, innovative, exclusive",colorful,461,165,250,93
+reel_112,product_264,user_43,Beauty,"#sale, #trending",popular,modern,726,480,175,117
+reel_113,product_501,user_132,Fashion,"#trending, #new","stylish, exclusive, popular",colorful,251,471,89,197
+reel_114,product_179,user_45,Home Decor,"#new, #shopnow","popular, affordable, innovative",luxury,701,334,36,80
+reel_115,product_913,user_22,Electronics,"#shopnow, #new",affordable,minimalistic,295,29,175,108
+reel_116,product_871,user_170,Beauty,"#sale, #discount",stylish,vintage,724,246,283,50
+reel_117,product_299,user_74,Beauty,#shopnow,"innovative, stylish",minimalistic,719,105,80,146
+reel_118,product_639,user_153,Beauty,"#shopnow, #sale, #trending",popular,modern,748,50,113,169
+reel_119,product_609,user_115,Home Decor,#shopnow,popular,colorful,337,80,39,34
+reel_120,product_153,user_162,Home Decor,#discount,stylish,colorful,878,132,223,45
+reel_121,product_763,user_170,Fashion,"#new, #discount, #sale","exclusive, popular",minimalistic,52,284,114,153
+reel_122,product_540,user_195,Home Decor,#trending,popular,luxury,791,387,185,68
+reel_123,product_779,user_164,Fashion,#new,innovative,vintage,921,137,55,92
+reel_124,product_531,user_123,Home Decor,"#shopnow, #discount","popular, innovative, exclusive",luxury,216,183,39,63
+reel_125,product_1,user_129,Electronics,#new,"innovative, popular",minimalistic,763,400,39,164
+reel_126,product_325,user_6,Sports,"#trending, #sale, #shopnow","innovative, affordable, exclusive",minimalistic,187,329,236,48
+reel_127,product_20,user_186,Fashion,"#trending, #new",affordable,vintage,379,272,288,148
+reel_128,product_930,user_166,Sports,"#sale, #shopnow, #trending",stylish,minimalistic,492,339,261,73
+reel_129,product_879,user_54,Beauty,"#trending, #shopnow","exclusive, stylish, innovative",colorful,40,471,215,191
+reel_130,product_832,user_37,Sports,"#trending, #discount, #sale",stylish,minimalistic,156,68,146,4
+reel_131,product_308,user_141,Sports,#shopnow,"popular, exclusive",modern,14,33,167,99
+reel_132,product_58,user_62,Fashion,"#discount, #shopnow",affordable,vintage,812,261,91,69
+reel_133,product_879,user_68,Fashion,"#discount, #shopnow",affordable,luxury,64,52,58,89
+reel_134,product_947,user_2,Fashion,#sale,"innovative, exclusive, affordable",minimalistic,856,449,58,3
+reel_135,product_86,user_174,Fashion,"#trending, #new, #sale","innovative, stylish, exclusive",luxury,838,204,168,125
+reel_136,product_486,user_114,Home Decor,"#shopnow, #trending","popular, innovative, affordable",luxury,520,125,268,38
+reel_137,product_70,user_81,Sports,#sale,"popular, affordable",colorful,343,234,44,162
+reel_138,product_761,user_29,Electronics,"#trending, #shopnow, #new",popular,modern,128,42,180,128
+reel_139,product_766,user_127,Electronics,"#new, #trending","innovative, exclusive, popular",vintage,647,239,169,23
+reel_140,product_129,user_7,Electronics,#discount,"exclusive, innovative",luxury,471,458,190,56
+reel_141,product_476,user_150,Home Decor,"#shopnow, #new, #sale","innovative, stylish, exclusive",colorful,62,370,154,99
+reel_142,product_550,user_44,Home Decor,#sale,stylish,minimalistic,138,110,187,69
+reel_143,product_266,user_84,Sports,"#new, #discount","exclusive, stylish",luxury,498,248,6,40
+reel_144,product_873,user_69,Electronics,"#shopnow, #new, #trending","exclusive, popular",luxury,592,150,132,181
+reel_145,product_424,user_75,Beauty,"#trending, #new, #shopnow","stylish, popular",minimalistic,391,182,234,173
+reel_146,product_212,user_145,Sports,"#trending, #shopnow","innovative, stylish",minimalistic,674,335,44,59
+reel_147,product_540,user_156,Beauty,"#sale, #trending","stylish, popular, exclusive",modern,418,94,248,107
+reel_148,product_730,user_114,Sports,#trending,affordable,colorful,288,458,30,187
+reel_149,product_202,user_17,Beauty,#sale,"innovative, stylish",minimalistic,378,373,22,56
+reel_150,product_312,user_11,Fashion,"#shopnow, #trending, #sale",popular,minimalistic,772,399,159,30
+reel_151,product_996,user_32,Electronics,"#sale, #discount","affordable, innovative, exclusive",modern,489,7,157,83
+reel_152,product_650,user_124,Home Decor,"#new, #sale, #shopnow","exclusive, stylish",vintage,230,387,38,151
+reel_153,product_439,user_135,Fashion,#sale,"popular, innovative",modern,40,359,81,35
+reel_154,product_518,user_55,Fashion,"#sale, #shopnow, #new","popular, innovative, exclusive",luxury,27,387,257,157
+reel_155,product_122,user_133,Fashion,#discount,"popular, stylish, affordable",minimalistic,134,183,205,151
+reel_156,product_225,user_98,Home Decor,"#discount, #sale",popular,vintage,200,280,76,107
+reel_157,product_339,user_89,Home Decor,"#new, #discount, #shopnow","affordable, stylish, innovative",colorful,839,194,11,105
+reel_158,product_589,user_55,Beauty,#trending,"affordable, innovative",colorful,779,351,294,157
+reel_159,product_231,user_151,Home Decor,"#sale, #new, #trending","stylish, affordable, popular",vintage,929,194,223,85
+reel_160,product_221,user_23,Sports,"#sale, #new, #discount",exclusive,colorful,32,154,12,134
+reel_161,product_71,user_86,Fashion,"#trending, #discount, #sale","affordable, stylish, popular",minimalistic,47,92,45,162
+reel_162,product_632,user_57,Home Decor,"#shopnow, #sale, #trending","affordable, popular",colorful,502,159,154,182
+reel_163,product_229,user_136,Fashion,#sale,"stylish, affordable, innovative",minimalistic,406,433,112,13
+reel_164,product_906,user_98,Electronics,"#trending, #shopnow",exclusive,minimalistic,573,60,232,119
+reel_165,product_860,user_134,Sports,"#shopnow, #trending","stylish, innovative, exclusive",minimalistic,727,121,16,137
+reel_166,product_71,user_10,Sports,"#discount, #new","innovative, stylish",colorful,804,50,222,79
+reel_167,product_239,user_80,Home Decor,#sale,"popular, innovative, affordable",minimalistic,98,402,187,143
+reel_168,product_669,user_120,Fashion,"#discount, #trending, #new",affordable,modern,683,276,162,181
+reel_169,product_215,user_2,Fashion,"#new, #trending","affordable, popular",modern,871,4,73,105
+reel_170,product_133,user_61,Sports,#sale,"stylish, exclusive",minimalistic,725,465,232,69
+reel_171,product_936,user_43,Sports,"#sale, #shopnow, #new","affordable, popular",minimalistic,986,91,223,43
+reel_172,product_572,user_28,Home Decor,"#discount, #trending, #sale","exclusive, stylish",modern,546,169,59,72
+reel_173,product_473,user_52,Fashion,"#sale, #shopnow, #trending","exclusive, affordable",colorful,960,316,221,44
+reel_174,product_785,user_66,Sports,"#trending, #discount, #shopnow","exclusive, affordable",vintage,738,21,36,183
+reel_175,product_808,user_2,Electronics,"#discount, #sale","stylish, innovative, popular",vintage,612,404,277,106
+reel_176,product_191,user_150,Sports,#trending,stylish,luxury,942,325,195,83
+reel_177,product_97,user_36,Home Decor,#new,"innovative, affordable",minimalistic,461,0,241,81
+reel_178,product_432,user_77,Beauty,"#new, #discount",stylish,minimalistic,642,132,218,106
+reel_179,product_424,user_141,Beauty,"#sale, #shopnow, #discount",affordable,minimalistic,768,232,191,184
+reel_180,product_468,user_101,Electronics,#trending,innovative,vintage,4,11,16,20
+reel_181,product_730,user_167,Fashion,"#trending, #new, #shopnow","innovative, exclusive",minimalistic,217,345,11,195
+reel_182,product_674,user_162,Fashion,"#shopnow, #new","stylish, affordable, innovative",modern,502,45,192,177
+reel_183,product_985,user_15,Electronics,"#sale, #new, #trending","exclusive, innovative, popular",minimalistic,766,33,21,160
+reel_184,product_99,user_173,Sports,#sale,"popular, exclusive",luxury,397,432,119,6
+reel_185,product_403,user_9,Electronics,"#discount, #shopnow","stylish, affordable, exclusive",luxury,870,77,209,69
+reel_186,product_340,user_4,Sports,"#discount, #shopnow",stylish,modern,794,217,269,126
+reel_187,product_862,user_185,Electronics,"#trending, #sale",exclusive,vintage,392,300,191,142
+reel_188,product_249,user_173,Beauty,#sale,"affordable, popular, exclusive",minimalistic,206,410,174,159
+reel_189,product_191,user_116,Fashion,#sale,"affordable, popular",luxury,14,72,284,147
+reel_190,product_449,user_115,Sports,"#shopnow, #discount","exclusive, popular, innovative",vintage,857,281,203,142
+reel_191,product_422,user_142,Beauty,"#discount, #trending, #new","exclusive, innovative",colorful,553,248,163,175
+reel_192,product_279,user_84,Home Decor,"#new, #sale","innovative, affordable",luxury,891,46,250,198
+reel_193,product_250,user_24,Sports,"#trending, #discount, #shopnow",popular,vintage,460,120,226,148
+reel_194,product_924,user_5,Fashion,#discount,"affordable, stylish",vintage,690,213,6,169
+reel_195,product_444,user_65,Home Decor,"#sale, #shopnow",affordable,minimalistic,574,238,28,153
+reel_196,product_862,user_161,Sports,"#new, #sale","popular, innovative",vintage,863,55,32,119
+reel_197,product_551,user_124,Electronics,"#shopnow, #trending, #new","innovative, affordable, stylish",vintage,742,349,133,127
+reel_198,product_51,user_167,Beauty,"#shopnow, #sale",innovative,vintage,240,106,78,141
+reel_199,product_1000,user_184,Sports,"#trending, #discount",innovative,modern,563,318,57,56
+reel_200,product_837,user_18,Electronics,"#discount, #trending",stylish,modern,95,47,25,164
+reel_201,product_969,user_169,Beauty,"#shopnow, #sale, #discount","exclusive, innovative",vintage,899,60,225,57
+reel_202,product_927,user_49,Fashion,"#trending, #discount, #shopnow","affordable, exclusive",minimalistic,733,336,284,20
+reel_203,product_849,user_118,Electronics,#sale,innovative,vintage,484,25,3,81
+reel_204,product_167,user_105,Sports,"#new, #trending","stylish, affordable, innovative",colorful,406,291,98,68
+reel_205,product_486,user_80,Home Decor,"#new, #sale",affordable,vintage,230,256,38,130
+reel_206,product_214,user_63,Electronics,"#trending, #discount, #shopnow","exclusive, innovative",vintage,748,7,270,86
+reel_207,product_402,user_68,Sports,#sale,"affordable, stylish, popular",colorful,654,112,284,164
+reel_208,product_59,user_67,Home Decor,"#discount, #shopnow","popular, innovative",luxury,170,354,156,48
+reel_209,product_379,user_34,Beauty,#discount,"affordable, innovative",modern,540,252,74,146
+reel_210,product_986,user_103,Beauty,"#new, #sale",exclusive,modern,35,179,287,114
+reel_211,product_266,user_23,Fashion,"#sale, #shopnow","affordable, exclusive, innovative",minimalistic,524,206,129,88
+reel_212,product_785,user_102,Beauty,"#discount, #sale","exclusive, innovative",modern,159,302,174,84
+reel_213,product_456,user_182,Beauty,"#shopnow, #sale, #discount","popular, affordable, exclusive",minimalistic,838,126,83,127
+reel_214,product_424,user_70,Beauty,"#shopnow, #new, #discount",popular,luxury,698,55,21,139
+reel_215,product_958,user_146,Fashion,"#trending, #discount, #shopnow",innovative,vintage,242,213,26,188
+reel_216,product_996,user_164,Fashion,"#sale, #trending","exclusive, stylish, innovative",vintage,85,13,194,168
+reel_217,product_556,user_164,Beauty,"#new, #discount",popular,luxury,795,473,235,160
+reel_218,product_719,user_48,Beauty,"#new, #discount, #sale","innovative, popular, exclusive",vintage,577,27,91,177
+reel_219,product_155,user_30,Beauty,#trending,affordable,luxury,681,470,20,116
+reel_220,product_297,user_40,Electronics,#new,exclusive,vintage,556,77,83,195
+reel_221,product_969,user_121,Fashion,"#new, #shopnow","innovative, exclusive, popular",modern,573,215,261,126
+reel_222,product_580,user_153,Fashion,"#sale, #shopnow, #discount",stylish,modern,952,385,146,70
+reel_223,product_543,user_132,Electronics,"#trending, #discount",exclusive,vintage,645,364,256,85
+reel_224,product_748,user_36,Electronics,#new,"stylish, popular",colorful,795,153,57,32
+reel_225,product_58,user_155,Electronics,"#trending, #shopnow, #sale",popular,luxury,27,13,14,80
+reel_226,product_585,user_99,Fashion,"#trending, #discount","exclusive, stylish",minimalistic,619,186,161,151
+reel_227,product_503,user_151,Fashion,#new,"affordable, popular, stylish",vintage,555,311,162,60
+reel_228,product_853,user_152,Home Decor,#discount,"popular, affordable, innovative",minimalistic,339,370,280,60
+reel_229,product_158,user_90,Home Decor,#shopnow,"stylish, affordable",minimalistic,797,6,279,97
+reel_230,product_961,user_185,Home Decor,#discount,"affordable, exclusive",minimalistic,957,2,11,27
+reel_231,product_81,user_113,Fashion,"#shopnow, #trending","exclusive, stylish",colorful,330,110,273,185
+reel_232,product_186,user_128,Electronics,"#sale, #shopnow",popular,colorful,639,406,270,42
+reel_233,product_596,user_125,Fashion,"#discount, #shopnow, #new","popular, exclusive, innovative",modern,505,237,207,168
+reel_234,product_676,user_173,Home Decor,#shopnow,popular,luxury,347,362,26,166
+reel_235,product_236,user_126,Electronics,#trending,"popular, innovative, affordable",vintage,472,238,71,85
+reel_236,product_120,user_31,Electronics,#discount,"stylish, innovative, exclusive",vintage,230,492,59,176
+reel_237,product_891,user_14,Electronics,"#shopnow, #new, #discount","popular, affordable",vintage,189,273,144,16
+reel_238,product_247,user_89,Electronics,"#discount, #trending",exclusive,vintage,224,293,92,97
+reel_239,product_595,user_61,Fashion,"#discount, #new","stylish, exclusive",luxury,384,226,7,197
+reel_240,product_620,user_55,Sports,"#discount, #trending","affordable, popular",vintage,376,370,78,197
+reel_241,product_420,user_12,Sports,#discount,exclusive,vintage,282,14,26,97
+reel_242,product_584,user_102,Sports,"#shopnow, #new, #discount","exclusive, innovative",luxury,957,191,173,64
+reel_243,product_523,user_63,Home Decor,"#new, #trending, #sale",innovative,modern,632,472,49,73
+reel_244,product_935,user_91,Fashion,#shopnow,"affordable, popular",colorful,627,118,198,84
+reel_245,product_205,user_12,Electronics,"#new, #shopnow, #discount",affordable,vintage,972,484,180,4
+reel_246,product_717,user_167,Fashion,#trending,"affordable, popular, exclusive",colorful,744,27,23,1
+reel_247,product_239,user_16,Electronics,"#shopnow, #new, #discount","popular, innovative, stylish",colorful,258,201,45,21
+reel_248,product_396,user_173,Home Decor,#new,innovative,vintage,358,38,14,111
+reel_249,product_672,user_172,Fashion,"#discount, #shopnow, #new","affordable, popular",modern,709,440,152,56
+reel_250,product_300,user_124,Home Decor,"#shopnow, #new, #trending",affordable,minimalistic,455,272,221,65
+reel_251,product_317,user_102,Home Decor,#shopnow,"innovative, popular",minimalistic,410,230,205,73
+reel_252,product_752,user_93,Home Decor,#sale,"innovative, stylish, popular",vintage,648,85,272,97
+reel_253,product_73,user_111,Fashion,"#trending, #sale","popular, stylish",luxury,317,473,235,143
+reel_254,product_459,user_159,Electronics,"#sale, #trending, #discount","affordable, popular, exclusive",luxury,676,125,227,111
+reel_255,product_999,user_180,Electronics,#new,"affordable, popular",modern,224,299,8,178
+reel_256,product_997,user_90,Beauty,"#new, #trending, #sale","stylish, affordable, popular",vintage,818,24,165,124
+reel_257,product_74,user_162,Home Decor,"#new, #trending, #shopnow","exclusive, stylish, innovative",luxury,233,144,213,166
+reel_258,product_214,user_131,Fashion,#new,exclusive,colorful,683,12,116,85
+reel_259,product_266,user_65,Fashion,"#sale, #trending",innovative,vintage,663,211,71,75
+reel_260,product_934,user_96,Electronics,"#shopnow, #discount, #sale","popular, innovative",vintage,974,24,63,87
+reel_261,product_881,user_31,Sports,"#new, #sale, #trending","innovative, stylish",minimalistic,826,67,204,167
+reel_262,product_880,user_13,Electronics,"#discount, #new","affordable, popular",minimalistic,373,393,208,37
+reel_263,product_370,user_21,Beauty,"#sale, #shopnow, #new","affordable, stylish, innovative",vintage,671,66,71,187
+reel_264,product_158,user_180,Sports,"#trending, #discount","exclusive, stylish",colorful,607,232,276,58
+reel_265,product_834,user_69,Electronics,#new,"innovative, exclusive, stylish",luxury,471,108,273,137
+reel_266,product_704,user_143,Electronics,"#shopnow, #trending, #new","innovative, affordable, exclusive",colorful,232,145,94,98
+reel_267,product_612,user_101,Sports,#new,"affordable, exclusive, popular",minimalistic,691,110,165,191
+reel_268,product_988,user_35,Sports,"#trending, #sale","affordable, stylish, exclusive",luxury,112,227,31,62
+reel_269,product_654,user_50,Sports,#trending,"affordable, innovative, stylish",modern,829,110,10,48
+reel_270,product_8,user_88,Fashion,"#shopnow, #sale, #trending",exclusive,vintage,496,469,216,191
+reel_271,product_818,user_88,Electronics,#discount,"affordable, popular",minimalistic,441,33,288,31
+reel_272,product_300,user_105,Sports,"#shopnow, #new","affordable, innovative",luxury,563,110,101,134
+reel_273,product_664,user_32,Electronics,#trending,innovative,minimalistic,267,263,266,20
+reel_274,product_939,user_75,Electronics,"#new, #sale, #trending",exclusive,modern,509,423,213,19
+reel_275,product_135,user_57,Sports,"#trending, #sale",innovative,modern,806,368,178,153
+reel_276,product_116,user_82,Sports,#new,"exclusive, stylish, innovative",minimalistic,385,235,87,126
+reel_277,product_108,user_68,Electronics,"#sale, #new, #trending","stylish, exclusive",colorful,386,82,40,67
+reel_278,product_554,user_120,Beauty,"#shopnow, #new, #sale",stylish,colorful,112,41,75,109
+reel_279,product_273,user_158,Home Decor,"#new, #trending, #sale","affordable, exclusive",colorful,612,424,45,115
+reel_280,product_605,user_130,Home Decor,"#sale, #trending, #discount","affordable, innovative, popular",vintage,624,100,159,142
+reel_281,product_718,user_14,Electronics,"#shopnow, #discount, #sale","exclusive, affordable, stylish",vintage,951,5,79,119
+reel_282,product_204,user_19,Electronics,"#trending, #shopnow","affordable, stylish, exclusive",modern,80,179,85,78
+reel_283,product_635,user_136,Sports,"#new, #shopnow, #trending",innovative,colorful,698,281,91,115
+reel_284,product_264,user_57,Electronics,"#trending, #discount",innovative,modern,112,319,147,91
+reel_285,product_489,user_145,Fashion,"#sale, #shopnow, #new","innovative, affordable, stylish",minimalistic,1,225,160,13
+reel_286,product_906,user_132,Home Decor,"#discount, #trending",innovative,vintage,641,442,201,154
+reel_287,product_847,user_182,Home Decor,"#shopnow, #trending, #sale",popular,minimalistic,219,439,241,124
+reel_288,product_93,user_175,Home Decor,"#new, #discount, #sale","stylish, exclusive, popular",vintage,565,314,1,167
+reel_289,product_424,user_67,Beauty,"#new, #shopnow","popular, stylish",luxury,854,364,224,57
+reel_290,product_277,user_117,Home Decor,#shopnow,stylish,luxury,996,453,288,27
+reel_291,product_4,user_29,Sports,"#shopnow, #discount",exclusive,modern,735,228,232,25
+reel_292,product_772,user_70,Home Decor,"#sale, #new","stylish, popular, exclusive",modern,224,376,76,112
+reel_293,product_638,user_194,Beauty,"#trending, #new, #discount","stylish, exclusive",vintage,384,288,115,190
+reel_294,product_262,user_140,Home Decor,#sale,"stylish, exclusive",modern,402,436,153,65
+reel_295,product_742,user_79,Electronics,#shopnow,exclusive,luxury,637,149,102,152
+reel_296,product_552,user_120,Beauty,"#sale, #shopnow, #discount",exclusive,vintage,129,276,193,130
+reel_297,product_428,user_188,Sports,"#trending, #discount, #sale",innovative,colorful,52,197,165,199
+reel_298,product_10,user_62,Beauty,#shopnow,"affordable, stylish, popular",colorful,683,69,89,43
+reel_299,product_76,user_76,Home Decor,"#discount, #sale, #new",affordable,modern,729,111,173,96
+reel_300,product_884,user_159,Home Decor,"#trending, #sale, #shopnow","affordable, exclusive, stylish",luxury,671,3,121,41
+reel_301,product_904,user_163,Beauty,"#new, #sale, #discount","exclusive, innovative, affordable",minimalistic,709,349,142,5
+reel_302,product_546,user_135,Electronics,#sale,"stylish, exclusive, affordable",luxury,415,330,105,166
+reel_303,product_835,user_166,Beauty,#new,exclusive,minimalistic,246,445,122,179
+reel_304,product_583,user_148,Beauty,"#sale, #trending, #discount",innovative,vintage,835,317,8,22
+reel_305,product_149,user_138,Beauty,"#discount, #shopnow","innovative, stylish",luxury,438,349,261,88
+reel_306,product_128,user_106,Fashion,"#discount, #shopnow, #trending","stylish, innovative, affordable",colorful,202,94,72,122
+reel_307,product_309,user_130,Sports,#discount,"popular, affordable, exclusive",minimalistic,183,151,222,177
+reel_308,product_899,user_85,Home Decor,"#sale, #shopnow, #new","innovative, popular, affordable",vintage,122,310,40,170
+reel_309,product_797,user_73,Home Decor,"#shopnow, #sale, #new",innovative,colorful,400,136,203,146
+reel_310,product_861,user_73,Home Decor,"#sale, #shopnow, #trending","popular, exclusive",colorful,766,246,263,196
+reel_311,product_899,user_37,Sports,"#sale, #new, #discount",exclusive,colorful,293,386,177,50
+reel_312,product_211,user_43,Beauty,"#shopnow, #sale",popular,vintage,279,242,83,10
+reel_313,product_250,user_190,Home Decor,"#discount, #shopnow",affordable,modern,836,30,110,11
+reel_314,product_103,user_98,Beauty,"#sale, #discount",popular,vintage,883,39,250,73
+reel_315,product_781,user_46,Electronics,#shopnow,exclusive,luxury,609,228,6,7
+reel_316,product_885,user_28,Sports,#trending,popular,vintage,197,35,83,151
+reel_317,product_407,user_16,Home Decor,"#discount, #new, #shopnow","affordable, stylish",minimalistic,981,407,207,40
+reel_318,product_621,user_169,Beauty,#new,affordable,minimalistic,906,222,21,163
+reel_319,product_155,user_21,Fashion,"#new, #sale, #shopnow","stylish, popular",luxury,510,5,2,84
+reel_320,product_930,user_155,Beauty,"#trending, #sale, #discount","popular, affordable",minimalistic,751,321,126,71
+reel_321,product_865,user_168,Beauty,#shopnow,"popular, innovative, affordable",minimalistic,143,467,296,54
+reel_322,product_977,user_177,Electronics,"#discount, #sale, #trending","affordable, popular",minimalistic,608,219,187,136
+reel_323,product_811,user_8,Beauty,#new,stylish,vintage,200,74,13,46
+reel_324,product_882,user_68,Fashion,#discount,"affordable, innovative",minimalistic,123,3,11,142
+reel_325,product_25,user_154,Sports,"#shopnow, #trending, #sale",popular,modern,186,334,86,175
+reel_326,product_737,user_27,Beauty,#trending,"stylish, popular, innovative",colorful,325,133,11,103
+reel_327,product_333,user_76,Electronics,"#new, #trending, #sale","stylish, exclusive, popular",vintage,463,117,24,41
+reel_328,product_931,user_33,Beauty,#shopnow,"popular, stylish",modern,348,368,242,59
+reel_329,product_803,user_167,Sports,#shopnow,"innovative, stylish, exclusive",minimalistic,770,93,121,197
+reel_330,product_865,user_155,Home Decor,"#shopnow, #sale",affordable,minimalistic,659,485,146,11
+reel_331,product_811,user_162,Fashion,"#sale, #new",exclusive,minimalistic,763,434,54,129
+reel_332,product_267,user_34,Electronics,#trending,"stylish, innovative",colorful,954,61,237,6
+reel_333,product_788,user_88,Home Decor,"#shopnow, #discount, #trending","popular, affordable",minimalistic,931,440,172,79
+reel_334,product_109,user_83,Home Decor,"#trending, #shopnow","exclusive, affordable, popular",minimalistic,402,193,220,130
+reel_335,product_873,user_136,Home Decor,#new,"affordable, popular",luxury,345,334,118,108
+reel_336,product_859,user_48,Home Decor,"#sale, #trending, #discount","exclusive, popular, innovative",vintage,962,202,182,2
+reel_337,product_223,user_89,Home Decor,"#discount, #new","affordable, innovative, popular",vintage,510,391,287,26
+reel_338,product_817,user_57,Electronics,"#new, #trending, #shopnow",stylish,modern,146,25,299,113
+reel_339,product_461,user_150,Beauty,"#new, #shopnow, #trending","popular, exclusive",colorful,147,434,81,106
+reel_340,product_306,user_90,Home Decor,#sale,innovative,minimalistic,863,172,210,39
+reel_341,product_796,user_107,Home Decor,"#trending, #shopnow",stylish,colorful,710,299,149,160
+reel_342,product_228,user_62,Electronics,"#discount, #new, #trending","stylish, exclusive, innovative",luxury,819,132,36,128
+reel_343,product_24,user_162,Fashion,#new,"stylish, innovative, popular",colorful,488,325,58,7
+reel_344,product_194,user_94,Fashion,"#discount, #shopnow","affordable, innovative, popular",vintage,928,409,130,100
+reel_345,product_329,user_168,Home Decor,"#new, #discount","exclusive, stylish, popular",colorful,935,117,201,159
+reel_346,product_865,user_74,Sports,"#sale, #trending, #new","exclusive, popular, innovative",luxury,639,323,242,123
+reel_347,product_967,user_190,Fashion,"#sale, #new, #shopnow",affordable,colorful,550,274,34,175
+reel_348,product_280,user_197,Sports,"#trending, #new, #discount","popular, exclusive, affordable",luxury,337,211,92,106
+reel_349,product_642,user_93,Fashion,"#sale, #shopnow, #discount","exclusive, affordable",colorful,871,224,206,100
+reel_350,product_400,user_57,Electronics,"#sale, #discount, #new","exclusive, stylish, popular",modern,640,19,212,3
+reel_351,product_982,user_77,Home Decor,#sale,"stylish, popular",minimalistic,778,112,158,197
+reel_352,product_537,user_106,Electronics,"#new, #discount, #shopnow","affordable, popular",vintage,987,139,23,109
+reel_353,product_940,user_194,Home Decor,#new,"popular, stylish",vintage,952,46,292,18
+reel_354,product_116,user_164,Home Decor,"#trending, #new",innovative,colorful,472,0,3,31
+reel_355,product_971,user_161,Home Decor,#discount,"affordable, innovative, popular",colorful,945,89,219,136
+reel_356,product_179,user_28,Beauty,"#shopnow, #sale, #trending","innovative, affordable",colorful,150,141,19,11
+reel_357,product_963,user_51,Electronics,"#shopnow, #sale","popular, exclusive, stylish",luxury,414,319,151,138
+reel_358,product_266,user_129,Electronics,"#trending, #shopnow, #new","popular, exclusive, innovative",colorful,989,37,49,45
+reel_359,product_109,user_175,Sports,#discount,"innovative, stylish, exclusive",modern,297,292,176,118
+reel_360,product_435,user_111,Fashion,#trending,"popular, exclusive",colorful,610,381,95,15
+reel_361,product_729,user_21,Sports,"#shopnow, #trending, #new","affordable, exclusive, innovative",colorful,262,138,104,128
+reel_362,product_314,user_170,Beauty,"#discount, #new, #sale",stylish,minimalistic,763,355,249,62
+reel_363,product_607,user_171,Beauty,#discount,"stylish, innovative, popular",modern,143,332,116,108
+reel_364,product_512,user_58,Fashion,#sale,"exclusive, stylish",colorful,345,490,227,118
+reel_365,product_386,user_153,Sports,"#new, #trending","affordable, popular, stylish",vintage,623,258,65,20
+reel_366,product_577,user_55,Electronics,#trending,"affordable, exclusive",modern,571,160,261,157
+reel_367,product_255,user_182,Fashion,"#new, #discount, #trending","affordable, stylish",modern,880,389,294,12
+reel_368,product_709,user_30,Fashion,"#sale, #shopnow","innovative, exclusive, stylish",luxury,1,177,242,161
+reel_369,product_2,user_88,Home Decor,"#new, #sale, #shopnow","affordable, stylish, exclusive",vintage,896,9,185,3
+reel_370,product_926,user_190,Sports,"#new, #shopnow, #discount",affordable,vintage,303,260,245,155
+reel_371,product_539,user_45,Electronics,"#shopnow, #trending, #discount",affordable,luxury,253,406,124,101
+reel_372,product_720,user_91,Home Decor,"#discount, #new, #shopnow",stylish,modern,651,137,267,58
+reel_373,product_742,user_70,Fashion,"#sale, #new, #trending","affordable, stylish, innovative",vintage,452,171,130,127
+reel_374,product_671,user_6,Beauty,#shopnow,"popular, exclusive, innovative",luxury,36,385,236,26
+reel_375,product_365,user_11,Home Decor,"#new, #shopnow",popular,luxury,159,12,17,68
+reel_376,product_70,user_101,Fashion,"#discount, #sale","stylish, affordable, innovative",luxury,8,167,39,24
+reel_377,product_665,user_48,Beauty,"#trending, #discount, #sale","popular, affordable, exclusive",luxury,232,129,20,130
+reel_378,product_331,user_199,Fashion,#sale,popular,minimalistic,98,83,224,96
+reel_379,product_314,user_75,Home Decor,"#new, #trending, #sale",innovative,luxury,658,320,281,195
+reel_380,product_849,user_6,Electronics,#trending,"popular, affordable",vintage,815,318,7,24
+reel_381,product_720,user_187,Beauty,"#shopnow, #sale",exclusive,vintage,207,100,99,147
+reel_382,product_301,user_168,Electronics,"#trending, #discount, #shopnow","affordable, popular",modern,130,328,239,161
+reel_383,product_310,user_130,Beauty,"#sale, #discount, #new",popular,colorful,403,272,86,153
+reel_384,product_409,user_159,Sports,"#discount, #trending","stylish, innovative, popular",luxury,151,264,297,125
+reel_385,product_403,user_28,Fashion,"#trending, #discount, #sale","stylish, affordable",luxury,53,458,13,132
+reel_386,product_296,user_58,Fashion,#sale,"popular, innovative, affordable",colorful,119,398,1,188
+reel_387,product_128,user_166,Sports,#shopnow,"stylish, exclusive, affordable",colorful,672,407,292,8
+reel_388,product_421,user_140,Fashion,"#trending, #shopnow, #new","affordable, stylish",vintage,919,37,40,115
+reel_389,product_941,user_28,Electronics,"#sale, #trending, #shopnow","exclusive, popular, innovative",vintage,627,418,110,177
+reel_390,product_678,user_142,Home Decor,#new,affordable,minimalistic,586,93,13,133
+reel_391,product_903,user_90,Electronics,#shopnow,affordable,colorful,624,94,230,59
+reel_392,product_616,user_2,Sports,"#shopnow, #sale","affordable, popular, exclusive",modern,967,304,83,171
+reel_393,product_301,user_16,Home Decor,"#new, #sale, #discount","affordable, innovative, popular",colorful,419,68,129,120
+reel_394,product_548,user_52,Beauty,"#shopnow, #discount","affordable, popular",modern,421,317,230,138
+reel_395,product_1,user_167,Home Decor,"#trending, #shopnow","exclusive, innovative, stylish",luxury,103,443,144,193
+reel_396,product_287,user_110,Beauty,"#shopnow, #trending","exclusive, innovative, affordable",minimalistic,851,235,27,174
+reel_397,product_430,user_146,Home Decor,"#trending, #new, #sale","innovative, popular",luxury,253,433,65,107
+reel_398,product_580,user_106,Electronics,"#new, #discount, #shopnow","exclusive, popular",vintage,226,333,162,107
+reel_399,product_655,user_23,Sports,"#sale, #trending, #discount","stylish, innovative, popular",modern,111,372,228,130
+reel_400,product_465,user_58,Beauty,"#trending, #sale","innovative, exclusive",vintage,509,375,260,75
+reel_401,product_443,user_61,Sports,#trending,affordable,modern,472,458,163,29
+reel_402,product_214,user_10,Beauty,"#shopnow, #discount, #sale","popular, affordable",vintage,98,136,286,20
+reel_403,product_474,user_84,Electronics,"#sale, #trending, #discount",innovative,minimalistic,152,417,9,155
+reel_404,product_902,user_159,Beauty,"#shopnow, #sale, #new","affordable, exclusive",colorful,860,75,194,189
+reel_405,product_797,user_92,Fashion,"#sale, #shopnow, #trending","innovative, affordable, popular",luxury,913,482,117,160
+reel_406,product_170,user_23,Fashion,"#trending, #sale, #new","innovative, popular, stylish",colorful,895,34,269,162
+reel_407,product_85,user_182,Fashion,"#discount, #shopnow, #trending",innovative,luxury,877,0,79,179
+reel_408,product_516,user_120,Electronics,#shopnow,stylish,colorful,337,295,92,33
+reel_409,product_633,user_4,Fashion,"#trending, #discount",affordable,luxury,705,319,265,40
+reel_410,product_336,user_104,Beauty,"#new, #sale","popular, exclusive",vintage,821,405,256,50
+reel_411,product_819,user_49,Home Decor,"#trending, #new","stylish, innovative",minimalistic,162,59,132,174
+reel_412,product_752,user_29,Home Decor,"#trending, #sale",affordable,modern,719,319,275,81
+reel_413,product_673,user_86,Fashion,"#shopnow, #discount",stylish,vintage,956,348,263,57
+reel_414,product_225,user_123,Electronics,"#trending, #sale","affordable, innovative",vintage,680,327,170,74
+reel_415,product_200,user_49,Fashion,"#sale, #shopnow, #new","stylish, popular, exclusive",modern,995,266,0,184
+reel_416,product_25,user_84,Beauty,#discount,stylish,colorful,160,360,63,22
+reel_417,product_245,user_133,Beauty,"#trending, #new, #shopnow","exclusive, affordable",luxury,579,228,283,175
+reel_418,product_476,user_18,Beauty,"#sale, #trending",popular,vintage,800,269,120,127
+reel_419,product_850,user_195,Sports,"#shopnow, #new","stylish, popular",vintage,397,315,106,149
+reel_420,product_73,user_14,Home Decor,"#shopnow, #discount","innovative, exclusive, stylish",colorful,276,285,174,16
+reel_421,product_415,user_106,Home Decor,"#new, #shopnow, #discount","exclusive, stylish, affordable",vintage,815,290,203,68
+reel_422,product_630,user_102,Fashion,"#trending, #discount","exclusive, affordable, innovative",luxury,915,212,164,107
+reel_423,product_195,user_198,Electronics,"#shopnow, #discount, #sale",innovative,modern,503,164,119,138
+reel_424,product_697,user_111,Home Decor,"#shopnow, #discount","stylish, affordable, innovative",minimalistic,895,4,43,93
+reel_425,product_495,user_79,Fashion,"#new, #shopnow","popular, innovative, exclusive",minimalistic,391,338,155,14
+reel_426,product_244,user_95,Electronics,"#discount, #trending, #new",innovative,modern,134,378,206,90
+reel_427,product_657,user_128,Fashion,#trending,innovative,modern,194,77,107,162
+reel_428,product_6,user_197,Fashion,"#trending, #sale",affordable,modern,400,409,250,32
+reel_429,product_751,user_51,Sports,#shopnow,"popular, affordable",colorful,639,61,129,124
+reel_430,product_771,user_4,Sports,"#new, #sale","stylish, popular, affordable",minimalistic,32,131,292,15
+reel_431,product_107,user_158,Home Decor,#discount,"stylish, affordable",vintage,687,88,19,161
+reel_432,product_426,user_69,Home Decor,"#sale, #shopnow, #discount","popular, exclusive, affordable",colorful,459,236,281,65
+reel_433,product_176,user_147,Beauty,"#shopnow, #discount",affordable,luxury,954,41,284,167
+reel_434,product_958,user_126,Home Decor,#sale,affordable,modern,882,88,0,155
+reel_435,product_518,user_155,Sports,"#trending, #new","affordable, exclusive",vintage,469,401,118,46
+reel_436,product_51,user_148,Home Decor,#shopnow,exclusive,minimalistic,374,295,34,166
+reel_437,product_250,user_67,Fashion,#discount,stylish,vintage,21,327,197,197
+reel_438,product_849,user_9,Fashion,"#shopnow, #new","innovative, affordable, popular",colorful,749,294,244,147
+reel_439,product_457,user_110,Beauty,"#shopnow, #sale, #discount","affordable, exclusive",vintage,669,103,58,123
+reel_440,product_802,user_163,Electronics,"#discount, #shopnow, #sale","stylish, innovative, popular",modern,37,13,160,0
+reel_441,product_668,user_36,Electronics,#shopnow,"stylish, popular",minimalistic,229,287,178,199
+reel_442,product_988,user_156,Home Decor,"#trending, #sale","affordable, stylish",minimalistic,364,178,205,86
+reel_443,product_596,user_93,Fashion,"#shopnow, #trending, #new",affordable,minimalistic,562,124,11,127
+reel_444,product_951,user_140,Home Decor,#sale,innovative,minimalistic,437,421,275,190
+reel_445,product_892,user_127,Beauty,"#trending, #sale","affordable, popular",colorful,775,352,180,66
+reel_446,product_613,user_163,Beauty,#sale,affordable,colorful,282,22,241,3
+reel_447,product_720,user_13,Home Decor,"#discount, #new",popular,vintage,26,62,215,185
+reel_448,product_505,user_156,Fashion,"#discount, #shopnow, #new","popular, affordable",colorful,225,142,250,152
+reel_449,product_831,user_92,Fashion,#shopnow,"popular, stylish, exclusive",minimalistic,276,480,298,46
+reel_450,product_548,user_59,Beauty,#sale,"affordable, stylish, innovative",luxury,797,152,125,37
+reel_451,product_898,user_9,Sports,#shopnow,"exclusive, affordable",vintage,608,144,216,142
+reel_452,product_744,user_40,Electronics,"#shopnow, #new","stylish, exclusive",luxury,283,224,284,190
+reel_453,product_475,user_9,Sports,"#new, #trending","innovative, popular, affordable",minimalistic,878,494,184,20
+reel_454,product_260,user_187,Fashion,"#trending, #discount, #shopnow",stylish,luxury,959,449,38,56
+reel_455,product_248,user_104,Beauty,"#sale, #new, #shopnow","innovative, affordable",vintage,480,461,222,116
+reel_456,product_638,user_198,Home Decor,"#shopnow, #sale","exclusive, stylish",colorful,452,308,183,180
+reel_457,product_766,user_109,Sports,"#sale, #new, #trending",innovative,minimalistic,828,103,177,45
+reel_458,product_522,user_51,Fashion,#shopnow,exclusive,modern,815,103,293,141
+reel_459,product_627,user_151,Sports,"#shopnow, #new","innovative, popular, exclusive",vintage,658,434,150,144
+reel_460,product_275,user_39,Beauty,"#discount, #shopnow, #new","popular, innovative",colorful,515,38,125,38
+reel_461,product_78,user_72,Electronics,"#trending, #new","innovative, affordable",luxury,546,434,233,136
+reel_462,product_286,user_157,Sports,"#discount, #sale","innovative, stylish",minimalistic,191,197,7,98
+reel_463,product_272,user_174,Home Decor,"#sale, #new","affordable, innovative",modern,48,133,128,76
+reel_464,product_320,user_67,Electronics,#discount,"popular, innovative",modern,511,66,263,114
+reel_465,product_541,user_25,Sports,"#trending, #shopnow, #discount",stylish,colorful,16,390,156,133
+reel_466,product_139,user_74,Home Decor,"#new, #sale","exclusive, innovative, stylish",luxury,171,178,4,150
+reel_467,product_232,user_178,Sports,"#new, #trending, #discount","innovative, affordable",vintage,219,455,85,186
+reel_468,product_694,user_149,Beauty,#discount,"innovative, stylish, exclusive",vintage,157,41,174,90
+reel_469,product_707,user_179,Electronics,"#new, #sale, #shopnow","popular, affordable, stylish",modern,476,447,289,97
+reel_470,product_65,user_78,Sports,#discount,affordable,vintage,45,499,192,119
+reel_471,product_408,user_195,Home Decor,"#new, #trending",exclusive,minimalistic,372,14,118,45
+reel_472,product_543,user_100,Electronics,"#new, #trending, #shopnow",stylish,minimalistic,517,110,217,37
+reel_473,product_416,user_100,Beauty,"#trending, #discount, #new","exclusive, popular, innovative",luxury,98,156,113,141
+reel_474,product_207,user_185,Beauty,#trending,"popular, stylish, exclusive",colorful,891,288,144,99
+reel_475,product_421,user_104,Fashion,"#trending, #new, #sale","innovative, exclusive, popular",luxury,744,499,25,71
+reel_476,product_905,user_161,Fashion,#trending,"popular, exclusive",colorful,36,477,135,189
+reel_477,product_585,user_146,Electronics,#shopnow,popular,colorful,279,230,231,34
+reel_478,product_696,user_16,Electronics,"#trending, #sale",exclusive,colorful,348,410,75,146
+reel_479,product_857,user_121,Fashion,#sale,affordable,luxury,496,419,288,29
+reel_480,product_766,user_165,Electronics,"#discount, #sale, #new","innovative, popular, stylish",modern,301,156,0,77
+reel_481,product_381,user_110,Electronics,#discount,"innovative, stylish",minimalistic,180,37,146,83
+reel_482,product_6,user_65,Home Decor,"#shopnow, #new","affordable, innovative",colorful,606,440,286,112
+reel_483,product_352,user_17,Electronics,"#shopnow, #new","popular, innovative, exclusive",modern,98,96,141,24
+reel_484,product_754,user_133,Beauty,"#trending, #new","popular, stylish, exclusive",luxury,699,484,52,167
+reel_485,product_854,user_62,Electronics,"#trending, #shopnow","innovative, affordable",minimalistic,992,410,68,87
+reel_486,product_954,user_121,Electronics,#shopnow,"popular, innovative, affordable",luxury,115,438,89,13
+reel_487,product_420,user_86,Sports,"#discount, #sale","popular, affordable",vintage,190,288,219,153
+reel_488,product_748,user_138,Sports,"#new, #discount, #shopnow",stylish,modern,252,253,191,101
+reel_489,product_547,user_71,Beauty,#discount,"stylish, exclusive, innovative",colorful,980,195,62,149
+reel_490,product_604,user_9,Fashion,#shopnow,popular,luxury,927,85,72,175
+reel_491,product_221,user_175,Sports,"#new, #sale","exclusive, stylish",colorful,982,321,160,82
+reel_492,product_220,user_71,Beauty,#trending,affordable,modern,160,9,168,109
+reel_493,product_436,user_200,Sports,"#shopnow, #sale","exclusive, popular, innovative",modern,255,4,88,178
+reel_494,product_30,user_55,Sports,"#new, #shopnow","affordable, innovative",minimalistic,322,122,175,130
+reel_495,product_337,user_197,Sports,#shopnow,"stylish, innovative, popular",vintage,127,329,268,169
+reel_496,product_680,user_190,Fashion,"#trending, #new",exclusive,vintage,17,352,72,18
+reel_497,product_405,user_16,Sports,"#shopnow, #new","affordable, popular",luxury,792,117,244,27
+reel_498,product_166,user_128,Electronics,"#trending, #discount",stylish,luxury,734,293,76,172
+reel_499,product_468,user_73,Beauty,"#trending, #discount","exclusive, popular",minimalistic,565,396,158,70
+reel_500,product_128,user_161,Sports,"#new, #shopnow, #trending",affordable,modern,569,158,97,62
+reel_501,product_623,user_136,Beauty,"#discount, #trending",affordable,modern,322,302,101,72
+reel_502,product_27,user_191,Beauty,"#trending, #shopnow, #sale",innovative,modern,871,227,131,123
+reel_503,product_395,user_29,Home Decor,"#new, #trending, #shopnow","affordable, exclusive",minimalistic,685,364,101,118
+reel_504,product_565,user_122,Home Decor,"#discount, #trending","affordable, exclusive",colorful,791,215,18,120
+reel_505,product_28,user_157,Electronics,#trending,"affordable, exclusive, innovative",vintage,625,435,81,18
+reel_506,product_643,user_7,Home Decor,"#sale, #trending",affordable,colorful,287,183,278,174
+reel_507,product_136,user_14,Home Decor,"#discount, #trending","popular, innovative, affordable",modern,942,14,128,141
+reel_508,product_462,user_156,Beauty,"#shopnow, #new, #trending","popular, stylish, exclusive",vintage,853,156,88,119
+reel_509,product_51,user_74,Sports,"#new, #sale",stylish,luxury,662,135,212,165
+reel_510,product_380,user_77,Fashion,"#sale, #trending",innovative,minimalistic,961,260,142,180
+reel_511,product_212,user_114,Home Decor,#trending,popular,luxury,638,156,64,60
+reel_512,product_327,user_122,Electronics,"#discount, #sale","innovative, popular",minimalistic,154,46,75,163
+reel_513,product_762,user_136,Sports,"#new, #shopnow","stylish, popular",vintage,489,323,198,167
+reel_514,product_380,user_190,Electronics,"#new, #shopnow",popular,vintage,385,331,142,29
+reel_515,product_753,user_75,Sports,"#sale, #discount","exclusive, popular",minimalistic,985,172,92,8
+reel_516,product_832,user_153,Electronics,#new,"popular, stylish",modern,784,129,223,63
+reel_517,product_253,user_115,Fashion,"#shopnow, #trending, #new","innovative, stylish, exclusive",luxury,103,410,290,160
+reel_518,product_82,user_106,Beauty,"#shopnow, #trending, #discount",innovative,minimalistic,928,94,101,119
+reel_519,product_20,user_80,Beauty,"#new, #discount","innovative, exclusive",colorful,392,114,266,51
+reel_520,product_540,user_130,Beauty,"#discount, #sale, #trending","exclusive, affordable, popular",modern,810,242,109,88
+reel_521,product_1000,user_50,Home Decor,"#new, #discount, #shopnow","exclusive, innovative, affordable",luxury,245,419,264,141
+reel_522,product_350,user_23,Beauty,#trending,exclusive,luxury,175,291,2,52
+reel_523,product_651,user_148,Electronics,"#new, #discount, #shopnow","innovative, popular, stylish",modern,38,281,84,186
+reel_524,product_782,user_100,Fashion,"#shopnow, #discount, #sale",popular,colorful,476,298,281,77
+reel_525,product_652,user_78,Home Decor,#trending,"stylish, affordable, exclusive",luxury,681,282,116,40
+reel_526,product_755,user_113,Electronics,"#trending, #new","stylish, popular",modern,758,68,220,195
+reel_527,product_950,user_53,Home Decor,"#new, #shopnow","exclusive, stylish",vintage,537,147,153,67
+reel_528,product_200,user_53,Electronics,"#discount, #new, #trending","innovative, stylish",minimalistic,866,10,152,7
+reel_529,product_21,user_90,Electronics,"#shopnow, #discount",popular,vintage,817,253,11,1
+reel_530,product_153,user_200,Sports,"#trending, #shopnow","popular, exclusive, affordable",luxury,920,329,132,104
+reel_531,product_127,user_58,Electronics,#trending,"exclusive, stylish",vintage,407,359,292,124
+reel_532,product_670,user_184,Home Decor,"#trending, #new, #discount","stylish, popular",colorful,524,37,299,109
+reel_533,product_564,user_99,Home Decor,"#sale, #trending, #shopnow","exclusive, innovative",luxury,827,133,227,85
+reel_534,product_218,user_25,Home Decor,"#sale, #shopnow",stylish,minimalistic,505,199,270,168
+reel_535,product_700,user_171,Electronics,#discount,"affordable, exclusive, stylish",minimalistic,902,22,42,119
+reel_536,product_767,user_91,Beauty,"#sale, #shopnow, #trending","stylish, popular, exclusive",minimalistic,824,302,20,126
+reel_537,product_168,user_180,Fashion,"#sale, #shopnow, #trending","affordable, innovative",colorful,35,345,106,182
+reel_538,product_608,user_90,Fashion,"#trending, #sale, #new",popular,minimalistic,684,301,116,15
+reel_539,product_748,user_18,Beauty,"#new, #trending",stylish,vintage,19,362,123,61
+reel_540,product_115,user_137,Home Decor,#new,innovative,vintage,320,395,280,112
+reel_541,product_820,user_170,Fashion,"#trending, #shopnow","popular, affordable",luxury,775,217,291,175
+reel_542,product_965,user_64,Sports,"#trending, #sale, #discount","innovative, stylish, exclusive",minimalistic,511,140,202,157
+reel_543,product_109,user_70,Home Decor,"#new, #shopnow, #trending","popular, affordable",colorful,399,103,50,11
+reel_544,product_26,user_13,Fashion,"#shopnow, #new","exclusive, innovative, popular",modern,653,445,270,34
+reel_545,product_312,user_109,Sports,"#discount, #trending, #new","stylish, affordable, popular",vintage,971,209,276,10
+reel_546,product_678,user_179,Electronics,"#trending, #discount, #new",popular,luxury,882,472,140,63
+reel_547,product_959,user_171,Beauty,"#shopnow, #discount, #new","popular, exclusive",vintage,470,480,274,49
+reel_548,product_397,user_143,Fashion,"#shopnow, #new, #trending","exclusive, popular",vintage,142,110,289,148
+reel_549,product_716,user_186,Beauty,"#shopnow, #trending",popular,luxury,91,103,51,68
+reel_550,product_76,user_128,Fashion,#discount,"exclusive, innovative",vintage,353,315,26,47
+reel_551,product_691,user_159,Sports,"#new, #discount","popular, stylish",vintage,833,170,156,19
+reel_552,product_628,user_102,Electronics,"#trending, #new",exclusive,colorful,799,459,238,100
+reel_553,product_102,user_25,Beauty,#sale,"popular, innovative",modern,726,491,155,194
+reel_554,product_773,user_41,Electronics,"#trending, #new, #shopnow","innovative, popular, affordable",luxury,958,355,290,171
+reel_555,product_851,user_28,Electronics,"#shopnow, #sale","exclusive, stylish, innovative",luxury,853,495,135,160
+reel_556,product_601,user_159,Sports,"#discount, #shopnow, #trending","popular, stylish",minimalistic,50,323,143,188
+reel_557,product_122,user_6,Fashion,#discount,"affordable, innovative",modern,664,132,105,136
+reel_558,product_984,user_111,Electronics,"#shopnow, #trending",affordable,vintage,697,375,157,67
+reel_559,product_783,user_74,Electronics,#shopnow,exclusive,colorful,574,292,145,34
+reel_560,product_348,user_161,Beauty,"#trending, #discount","affordable, stylish",minimalistic,189,327,1,64
+reel_561,product_429,user_111,Electronics,"#discount, #shopnow, #sale","stylish, exclusive, affordable",luxury,124,126,76,7
+reel_562,product_371,user_123,Beauty,#discount,exclusive,modern,149,105,131,44
+reel_563,product_506,user_18,Beauty,"#trending, #new","popular, stylish",colorful,313,496,89,86
+reel_564,product_342,user_62,Fashion,#discount,"exclusive, affordable",luxury,569,91,262,174
+reel_565,product_850,user_200,Home Decor,"#trending, #new, #shopnow","affordable, stylish",vintage,341,286,107,167
+reel_566,product_823,user_144,Fashion,"#shopnow, #new, #trending","stylish, exclusive, affordable",minimalistic,304,377,73,75
+reel_567,product_106,user_106,Electronics,#sale,"popular, innovative, stylish",modern,691,392,38,181
+reel_568,product_961,user_154,Beauty,#trending,"stylish, exclusive",minimalistic,681,50,158,75
+reel_569,product_636,user_165,Fashion,"#sale, #discount","affordable, exclusive",vintage,837,28,70,173
+reel_570,product_829,user_15,Beauty,"#discount, #new, #shopnow","popular, exclusive, affordable",vintage,782,461,240,46
+reel_571,product_708,user_195,Sports,"#discount, #trending, #shopnow","affordable, innovative",luxury,53,295,297,14
+reel_572,product_436,user_129,Sports,#trending,innovative,minimalistic,443,296,35,104
+reel_573,product_734,user_90,Home Decor,#shopnow,exclusive,minimalistic,612,213,83,146
+reel_574,product_966,user_137,Fashion,#trending,"stylish, popular",minimalistic,992,266,262,25
+reel_575,product_271,user_69,Fashion,#new,"stylish, exclusive, innovative",minimalistic,263,406,171,51
+reel_576,product_809,user_176,Electronics,"#trending, #discount",stylish,colorful,52,256,172,92
+reel_577,product_539,user_157,Beauty,"#sale, #trending, #shopnow",popular,luxury,571,301,46,149
+reel_578,product_484,user_128,Fashion,#sale,"popular, exclusive",modern,619,100,140,20
+reel_579,product_436,user_37,Electronics,"#trending, #new","exclusive, affordable",colorful,4,404,117,50
+reel_580,product_732,user_194,Sports,"#new, #discount","popular, affordable, stylish",minimalistic,102,345,276,37
+reel_581,product_269,user_87,Fashion,"#discount, #sale",innovative,vintage,195,109,213,19
+reel_582,product_852,user_183,Beauty,"#sale, #trending",innovative,vintage,773,419,219,156
+reel_583,product_831,user_12,Beauty,#new,stylish,minimalistic,876,181,25,178
+reel_584,product_87,user_25,Fashion,"#sale, #discount","innovative, stylish, popular",colorful,991,470,8,131
+reel_585,product_882,user_31,Sports,#trending,"innovative, exclusive",colorful,883,312,270,54
+reel_586,product_244,user_33,Fashion,"#discount, #sale","exclusive, innovative",luxury,349,0,9,198
+reel_587,product_465,user_65,Home Decor,#trending,affordable,vintage,46,318,120,91
+reel_588,product_611,user_142,Fashion,"#discount, #trending","innovative, popular",minimalistic,866,437,124,27
+reel_589,product_379,user_70,Beauty,"#sale, #trending, #discount","stylish, exclusive",colorful,822,54,169,3
+reel_590,product_29,user_189,Home Decor,"#sale, #trending, #discount",innovative,colorful,935,370,71,149
+reel_591,product_851,user_179,Beauty,"#new, #shopnow","popular, exclusive, innovative",modern,819,423,151,75
+reel_592,product_182,user_170,Beauty,#sale,popular,luxury,655,398,207,172
+reel_593,product_213,user_51,Fashion,"#shopnow, #sale, #trending","innovative, exclusive, popular",modern,268,148,48,66
+reel_594,product_798,user_128,Home Decor,"#new, #trending","popular, stylish, innovative",vintage,369,430,153,85
+reel_595,product_341,user_111,Beauty,"#sale, #trending",stylish,minimalistic,635,456,292,193
+reel_596,product_881,user_26,Sports,#trending,"popular, exclusive, innovative",vintage,105,308,67,161
+reel_597,product_702,user_61,Fashion,"#discount, #new, #sale","exclusive, affordable, stylish",minimalistic,669,136,49,90
+reel_598,product_277,user_107,Fashion,#new,"popular, exclusive",colorful,658,201,151,182
+reel_599,product_11,user_101,Beauty,"#sale, #discount, #shopnow","exclusive, popular, stylish",colorful,656,435,18,104
+reel_600,product_949,user_34,Home Decor,#sale,"stylish, exclusive, innovative",minimalistic,119,312,99,0
+reel_601,product_86,user_189,Electronics,"#discount, #trending, #shopnow","affordable, stylish, innovative",vintage,830,116,59,71
+reel_602,product_721,user_31,Sports,#trending,"popular, exclusive, stylish",vintage,786,153,166,86
+reel_603,product_489,user_132,Electronics,#discount,"exclusive, affordable",luxury,603,424,201,165
+reel_604,product_759,user_145,Fashion,#shopnow,"popular, stylish",modern,57,290,145,5
+reel_605,product_691,user_122,Electronics,"#sale, #shopnow",affordable,minimalistic,950,62,163,152
+reel_606,product_646,user_169,Fashion,"#trending, #sale","innovative, popular, exclusive",vintage,345,243,241,144
+reel_607,product_491,user_113,Home Decor,#discount,"innovative, exclusive",colorful,740,24,68,60
+reel_608,product_793,user_166,Beauty,#new,"affordable, popular, stylish",vintage,473,89,174,11
+reel_609,product_94,user_6,Beauty,"#new, #discount, #shopnow","popular, exclusive",vintage,116,74,48,5
+reel_610,product_222,user_10,Beauty,#sale,"affordable, popular, stylish",luxury,829,293,107,26
+reel_611,product_692,user_129,Beauty,"#discount, #new, #shopnow","innovative, affordable, popular",vintage,790,385,225,135
+reel_612,product_307,user_116,Sports,#new,"stylish, popular, exclusive",luxury,126,390,160,123
+reel_613,product_582,user_131,Beauty,#discount,innovative,colorful,392,209,118,105
+reel_614,product_474,user_154,Electronics,"#discount, #new, #shopnow",exclusive,colorful,907,474,148,192
+reel_615,product_531,user_84,Home Decor,"#discount, #trending, #new","stylish, popular",colorful,640,417,149,184
+reel_616,product_426,user_128,Home Decor,#shopnow,"affordable, innovative",colorful,57,346,292,92
+reel_617,product_746,user_100,Beauty,"#new, #discount",exclusive,colorful,633,16,142,108
+reel_618,product_331,user_126,Electronics,"#shopnow, #trending",stylish,vintage,512,127,159,98
+reel_619,product_703,user_58,Fashion,#shopnow,"affordable, exclusive",modern,750,426,10,167
+reel_620,product_271,user_192,Sports,#discount,"innovative, exclusive, affordable",minimalistic,801,442,137,141
+reel_621,product_252,user_97,Sports,"#new, #shopnow",stylish,colorful,95,363,77,34
+reel_622,product_121,user_161,Home Decor,"#sale, #discount","popular, stylish",modern,637,250,76,175
+reel_623,product_193,user_137,Fashion,"#trending, #sale, #new","innovative, stylish, affordable",modern,117,178,253,83
+reel_624,product_120,user_60,Home Decor,"#shopnow, #trending",popular,modern,559,181,257,55
+reel_625,product_536,user_15,Home Decor,"#sale, #discount","affordable, exclusive",vintage,600,151,290,176
+reel_626,product_763,user_12,Home Decor,#shopnow,exclusive,luxury,487,24,262,140
+reel_627,product_186,user_88,Sports,"#discount, #trending, #new","innovative, stylish",colorful,236,454,84,188
+reel_628,product_217,user_97,Sports,"#new, #discount","stylish, popular, innovative",modern,884,179,145,48
+reel_629,product_485,user_41,Sports,"#new, #sale, #discount",stylish,minimalistic,896,197,41,45
+reel_630,product_725,user_122,Fashion,"#sale, #shopnow, #discount","exclusive, stylish, affordable",vintage,271,343,124,112
+reel_631,product_977,user_63,Sports,#sale,exclusive,vintage,188,160,166,189
+reel_632,product_525,user_144,Home Decor,#sale,innovative,vintage,998,176,240,135
+reel_633,product_283,user_147,Electronics,"#trending, #sale","stylish, innovative, popular",luxury,703,284,279,42
+reel_634,product_101,user_173,Beauty,#shopnow,affordable,modern,446,62,187,147
+reel_635,product_195,user_196,Beauty,"#discount, #shopnow, #new","popular, exclusive, affordable",minimalistic,580,490,18,123
+reel_636,product_228,user_27,Sports,"#shopnow, #new, #sale",innovative,colorful,789,149,67,96
+reel_637,product_180,user_75,Beauty,"#trending, #sale","affordable, exclusive, stylish",luxury,860,153,217,89
+reel_638,product_15,user_113,Fashion,#trending,innovative,colorful,246,155,101,38
+reel_639,product_535,user_64,Fashion,"#discount, #sale, #trending","popular, stylish",modern,962,369,41,84
+reel_640,product_275,user_94,Electronics,"#sale, #new, #discount",popular,minimalistic,75,468,287,176
+reel_641,product_975,user_54,Fashion,"#discount, #new, #shopnow","affordable, innovative",vintage,153,48,166,191
+reel_642,product_554,user_50,Fashion,#shopnow,affordable,colorful,655,454,108,61
+reel_643,product_698,user_20,Beauty,"#shopnow, #sale","popular, affordable",vintage,434,336,35,105
+reel_644,product_127,user_59,Home Decor,"#sale, #new, #shopnow","innovative, exclusive, affordable",modern,996,83,231,106
+reel_645,product_869,user_77,Beauty,#shopnow,"innovative, exclusive",modern,85,360,228,53
+reel_646,product_491,user_124,Home Decor,#sale,"popular, exclusive",modern,696,176,163,125
+reel_647,product_873,user_50,Home Decor,"#trending, #discount, #sale","exclusive, affordable",vintage,284,147,72,8
+reel_648,product_575,user_174,Beauty,#shopnow,popular,colorful,973,117,135,87
+reel_649,product_470,user_32,Fashion,"#trending, #shopnow, #new",stylish,modern,219,341,69,36
+reel_650,product_441,user_66,Home Decor,"#shopnow, #discount, #new","exclusive, stylish, popular",modern,68,475,195,48
+reel_651,product_185,user_116,Beauty,#shopnow,"affordable, popular",modern,46,62,268,40
+reel_652,product_52,user_63,Electronics,"#discount, #shopnow",popular,colorful,93,188,48,16
+reel_653,product_942,user_153,Electronics,#trending,popular,minimalistic,749,359,129,87
+reel_654,product_478,user_100,Home Decor,#shopnow,innovative,colorful,957,48,4,20
+reel_655,product_823,user_103,Electronics,"#shopnow, #new","stylish, affordable, innovative",minimalistic,452,326,26,50
+reel_656,product_401,user_100,Sports,"#trending, #discount, #shopnow","exclusive, affordable",modern,203,256,159,58
+reel_657,product_75,user_62,Home Decor,"#shopnow, #new","affordable, exclusive, stylish",minimalistic,911,223,148,166
+reel_658,product_630,user_5,Electronics,"#discount, #shopnow","exclusive, innovative",colorful,217,140,263,182
+reel_659,product_54,user_190,Beauty,"#new, #trending, #shopnow","popular, exclusive, affordable",modern,473,477,229,40
+reel_660,product_150,user_102,Sports,"#trending, #discount, #new",exclusive,vintage,431,214,199,38
+reel_661,product_563,user_194,Beauty,"#new, #shopnow, #trending","exclusive, popular, affordable",luxury,340,434,49,140
+reel_662,product_304,user_44,Fashion,"#discount, #sale","popular, innovative",colorful,550,378,66,191
+reel_663,product_994,user_71,Beauty,"#sale, #new, #discount","stylish, exclusive",colorful,611,439,299,10
+reel_664,product_119,user_11,Beauty,#shopnow,"affordable, popular, exclusive",minimalistic,288,210,57,146
+reel_665,product_765,user_99,Sports,#new,"innovative, affordable, stylish",modern,253,317,258,138
+reel_666,product_607,user_177,Fashion,#new,exclusive,minimalistic,733,31,129,76
+reel_667,product_791,user_131,Fashion,#trending,"affordable, exclusive, popular",minimalistic,356,157,214,126
+reel_668,product_226,user_95,Home Decor,"#sale, #new",stylish,colorful,22,284,171,45
+reel_669,product_523,user_108,Home Decor,"#shopnow, #trending, #sale",exclusive,modern,761,304,257,44
+reel_670,product_451,user_170,Beauty,#discount,"affordable, innovative, popular",luxury,521,428,101,0
+reel_671,product_443,user_87,Electronics,"#trending, #shopnow","popular, stylish, affordable",colorful,757,476,208,167
+reel_672,product_861,user_177,Beauty,"#new, #trending",affordable,colorful,836,285,290,107
+reel_673,product_991,user_146,Beauty,#new,"exclusive, affordable",colorful,99,143,285,18
+reel_674,product_306,user_153,Fashion,"#sale, #discount",stylish,modern,801,423,115,75
+reel_675,product_622,user_74,Beauty,"#trending, #sale, #new","stylish, popular, innovative",luxury,179,18,263,71
+reel_676,product_610,user_81,Beauty,"#discount, #trending","stylish, popular, innovative",luxury,222,17,149,199
+reel_677,product_741,user_115,Fashion,"#shopnow, #sale",exclusive,modern,905,256,299,188
+reel_678,product_948,user_39,Sports,"#new, #sale, #shopnow","exclusive, innovative, popular",minimalistic,761,77,35,108
+reel_679,product_208,user_111,Home Decor,"#discount, #sale, #shopnow","affordable, innovative",vintage,658,370,286,11
+reel_680,product_212,user_15,Beauty,"#new, #discount","popular, innovative, stylish",colorful,441,174,207,188
+reel_681,product_661,user_101,Beauty,"#sale, #trending","exclusive, innovative",minimalistic,607,497,105,160
+reel_682,product_158,user_153,Fashion,"#shopnow, #sale, #new","popular, stylish",luxury,768,193,157,44
+reel_683,product_174,user_56,Fashion,"#discount, #sale, #trending",popular,colorful,324,475,120,89
+reel_684,product_76,user_198,Beauty,"#sale, #new, #discount","stylish, exclusive",modern,515,112,54,102
+reel_685,product_3,user_137,Electronics,"#trending, #new, #discount",popular,luxury,15,113,11,196
+reel_686,product_451,user_24,Sports,"#trending, #shopnow, #sale",popular,modern,791,221,144,7
+reel_687,product_594,user_196,Beauty,"#discount, #shopnow, #new",popular,vintage,335,165,135,152
+reel_688,product_292,user_79,Fashion,"#shopnow, #sale, #discount",affordable,minimalistic,758,434,2,90
+reel_689,product_232,user_159,Sports,"#new, #discount","exclusive, popular, affordable",modern,257,318,143,173
+reel_690,product_707,user_68,Electronics,#trending,"exclusive, popular, innovative",vintage,496,131,29,86
+reel_691,product_703,user_188,Fashion,"#sale, #discount","popular, exclusive, innovative",luxury,987,384,236,157
+reel_692,product_455,user_151,Beauty,"#sale, #discount, #trending","popular, exclusive, stylish",modern,895,263,278,174
+reel_693,product_688,user_40,Home Decor,#discount,exclusive,luxury,159,412,114,176
+reel_694,product_924,user_102,Fashion,"#discount, #trending, #sale",popular,modern,474,54,103,174
+reel_695,product_788,user_101,Home Decor,"#shopnow, #trending","popular, innovative, affordable",modern,851,358,117,83
+reel_696,product_626,user_10,Electronics,"#discount, #trending","exclusive, stylish, affordable",modern,663,130,4,81
+reel_697,product_662,user_28,Home Decor,"#shopnow, #trending, #sale",popular,minimalistic,907,287,247,145
+reel_698,product_934,user_67,Home Decor,#new,"stylish, innovative",colorful,689,265,120,193
+reel_699,product_426,user_95,Electronics,"#new, #sale","affordable, stylish, exclusive",colorful,674,457,285,67
+reel_700,product_545,user_92,Electronics,#discount,"stylish, exclusive",minimalistic,379,466,148,160
+reel_701,product_648,user_122,Fashion,"#new, #shopnow","exclusive, affordable",colorful,544,365,83,126
+reel_702,product_909,user_104,Home Decor,#new,exclusive,minimalistic,928,161,230,163
+reel_703,product_827,user_66,Beauty,"#shopnow, #sale",stylish,minimalistic,956,379,287,81
+reel_704,product_72,user_123,Electronics,"#trending, #new","affordable, exclusive",luxury,690,480,160,146
+reel_705,product_166,user_33,Home Decor,"#discount, #trending, #shopnow","affordable, popular",minimalistic,426,86,271,155
+reel_706,product_308,user_199,Fashion,#trending,innovative,minimalistic,612,54,37,167
+reel_707,product_749,user_148,Sports,#new,exclusive,modern,267,475,225,83
+reel_708,product_570,user_60,Electronics,#sale,"stylish, affordable",modern,834,287,141,112
+reel_709,product_289,user_68,Home Decor,#sale,"innovative, exclusive",minimalistic,576,177,291,75
+reel_710,product_125,user_166,Electronics,#shopnow,"popular, stylish, exclusive",modern,416,390,150,121
+reel_711,product_689,user_107,Fashion,#new,"affordable, stylish, popular",luxury,167,348,113,142
+reel_712,product_700,user_142,Sports,#new,"popular, affordable",luxury,841,7,236,40
+reel_713,product_943,user_60,Sports,"#sale, #new, #trending","popular, affordable, innovative",minimalistic,42,320,65,166
+reel_714,product_501,user_164,Home Decor,"#sale, #new","exclusive, innovative",modern,555,312,257,1
+reel_715,product_494,user_74,Sports,#shopnow,exclusive,vintage,284,246,248,190
+reel_716,product_81,user_135,Beauty,#trending,"popular, exclusive, affordable",colorful,396,322,179,28
+reel_717,product_40,user_196,Home Decor,"#shopnow, #new, #discount","innovative, affordable",modern,11,471,189,104
+reel_718,product_433,user_117,Electronics,"#shopnow, #trending",exclusive,luxury,606,470,153,193
+reel_719,product_323,user_160,Home Decor,"#sale, #discount, #new","exclusive, popular, innovative",luxury,301,442,195,50
+reel_720,product_251,user_146,Beauty,"#shopnow, #sale, #trending",popular,vintage,897,254,261,74
+reel_721,product_92,user_138,Electronics,#sale,"exclusive, stylish",minimalistic,252,327,142,9
+reel_722,product_962,user_6,Fashion,"#trending, #new","popular, affordable, exclusive",vintage,498,53,100,141
+reel_723,product_836,user_95,Electronics,#discount,innovative,vintage,753,248,243,50
+reel_724,product_576,user_194,Home Decor,"#sale, #shopnow, #trending","stylish, affordable, popular",colorful,34,238,11,117
+reel_725,product_951,user_157,Sports,"#new, #shopnow, #sale","stylish, exclusive, popular",luxury,726,228,238,120
+reel_726,product_1000,user_156,Fashion,#new,"exclusive, stylish, affordable",vintage,848,66,48,38
+reel_727,product_673,user_116,Sports,"#discount, #trending, #shopnow","innovative, popular, affordable",minimalistic,89,50,41,27
+reel_728,product_270,user_145,Sports,"#sale, #new, #trending",stylish,modern,775,96,165,2
+reel_729,product_41,user_117,Sports,"#shopnow, #sale, #discount","exclusive, innovative, stylish",minimalistic,604,91,81,83
+reel_730,product_757,user_35,Fashion,#shopnow,"innovative, exclusive",colorful,921,494,290,197
+reel_731,product_471,user_126,Home Decor,"#shopnow, #sale","exclusive, popular, stylish",luxury,969,263,157,154
+reel_732,product_652,user_124,Electronics,#trending,"exclusive, affordable, innovative",minimalistic,601,417,215,116
+reel_733,product_917,user_169,Sports,"#new, #shopnow, #trending","stylish, popular, exclusive",luxury,417,290,157,1
+reel_734,product_182,user_30,Electronics,"#trending, #sale","popular, innovative",modern,114,95,133,92
+reel_735,product_586,user_137,Home Decor,"#new, #shopnow","stylish, affordable",modern,616,87,66,165
+reel_736,product_635,user_7,Fashion,"#new, #trending, #shopnow","affordable, stylish",modern,902,77,6,130
+reel_737,product_492,user_190,Electronics,"#sale, #new",stylish,minimalistic,195,287,13,143
+reel_738,product_92,user_22,Home Decor,"#sale, #new","innovative, affordable, stylish",vintage,825,119,72,93
+reel_739,product_348,user_4,Electronics,#trending,affordable,minimalistic,500,301,162,39
+reel_740,product_334,user_63,Beauty,"#discount, #trending",innovative,luxury,625,490,65,1
+reel_741,product_671,user_31,Home Decor,#discount,"popular, innovative",vintage,492,399,129,80
+reel_742,product_858,user_139,Home Decor,"#shopnow, #trending, #discount",exclusive,vintage,74,451,205,168
+reel_743,product_330,user_83,Home Decor,#shopnow,"innovative, stylish",colorful,412,499,275,11
+reel_744,product_694,user_155,Beauty,#discount,"stylish, affordable, innovative",modern,375,164,255,162
+reel_745,product_289,user_185,Fashion,"#shopnow, #new",affordable,minimalistic,419,181,265,64
+reel_746,product_946,user_175,Sports,"#shopnow, #trending",popular,colorful,728,468,24,54
+reel_747,product_814,user_148,Beauty,#trending,"affordable, popular",luxury,276,397,280,44
+reel_748,product_551,user_13,Electronics,"#shopnow, #trending, #sale",stylish,colorful,760,222,252,100
+reel_749,product_455,user_28,Fashion,"#shopnow, #trending",innovative,modern,675,310,288,61
+reel_750,product_315,user_42,Home Decor,"#trending, #shopnow","exclusive, innovative, popular",colorful,393,431,163,48
+reel_751,product_324,user_66,Electronics,"#sale, #shopnow","exclusive, popular, stylish",modern,868,465,94,126
+reel_752,product_971,user_133,Electronics,#new,"stylish, affordable",vintage,456,6,269,152
+reel_753,product_405,user_106,Sports,#sale,"exclusive, popular",colorful,919,329,109,22
+reel_754,product_515,user_63,Sports,"#discount, #shopnow",popular,luxury,191,262,237,151
+reel_755,product_989,user_35,Sports,"#discount, #new",popular,colorful,738,160,24,37
+reel_756,product_658,user_183,Fashion,#trending,"innovative, stylish, exclusive",luxury,688,150,140,27
+reel_757,product_543,user_69,Beauty,#trending,"exclusive, stylish, popular",luxury,98,84,116,20
+reel_758,product_414,user_71,Sports,#sale,"innovative, affordable, popular",luxury,547,146,24,181
+reel_759,product_188,user_155,Beauty,"#shopnow, #new, #discount","popular, stylish",minimalistic,977,111,78,106
+reel_760,product_362,user_145,Fashion,"#shopnow, #trending, #new","exclusive, innovative, stylish",minimalistic,998,380,67,145
+reel_761,product_757,user_129,Home Decor,#trending,"exclusive, innovative",luxury,95,402,172,163
+reel_762,product_626,user_139,Electronics,"#sale, #new, #shopnow",exclusive,colorful,663,35,11,98
+reel_763,product_760,user_123,Home Decor,"#discount, #trending, #new","exclusive, popular",colorful,662,284,287,172
+reel_764,product_204,user_39,Fashion,"#discount, #new, #sale",stylish,vintage,189,187,127,118
+reel_765,product_550,user_50,Sports,"#discount, #shopnow","exclusive, affordable",minimalistic,735,81,95,72
+reel_766,product_928,user_112,Beauty,#trending,"innovative, stylish, popular",vintage,36,1,91,180
+reel_767,product_439,user_45,Fashion,#trending,"affordable, exclusive",colorful,779,384,140,121
+reel_768,product_699,user_195,Sports,#discount,"popular, affordable, exclusive",colorful,368,302,30,29
+reel_769,product_122,user_60,Sports,#new,exclusive,minimalistic,694,196,19,187
+reel_770,product_974,user_58,Home Decor,"#trending, #shopnow","affordable, stylish, popular",modern,524,403,145,107
+reel_771,product_609,user_42,Beauty,#sale,"exclusive, stylish, innovative",luxury,278,10,159,97
+reel_772,product_240,user_141,Electronics,#discount,popular,modern,216,233,42,31
+reel_773,product_159,user_64,Sports,"#discount, #new, #trending","stylish, innovative, affordable",vintage,866,385,253,194
+reel_774,product_551,user_70,Fashion,#discount,"affordable, popular, stylish",colorful,872,194,129,194
+reel_775,product_553,user_187,Fashion,"#sale, #discount","exclusive, affordable, popular",modern,797,470,59,155
+reel_776,product_94,user_160,Fashion,"#new, #discount, #shopnow","affordable, popular",luxury,272,118,150,171
+reel_777,product_993,user_55,Sports,"#shopnow, #sale, #new","innovative, affordable",modern,880,395,286,78
+reel_778,product_913,user_25,Fashion,#discount,"innovative, popular",luxury,61,19,4,40
+reel_779,product_462,user_136,Home Decor,"#sale, #trending","affordable, stylish, exclusive",modern,595,260,265,62
+reel_780,product_118,user_76,Home Decor,"#shopnow, #discount, #new",stylish,luxury,879,292,129,22
+reel_781,product_833,user_197,Sports,#shopnow,"popular, stylish, exclusive",modern,728,421,266,103
+reel_782,product_499,user_164,Electronics,"#shopnow, #sale","innovative, popular, affordable",colorful,341,255,177,74
+reel_783,product_717,user_191,Electronics,#new,"popular, exclusive, affordable",colorful,396,221,252,47
+reel_784,product_509,user_161,Electronics,"#discount, #new",stylish,minimalistic,698,392,55,159
+reel_785,product_274,user_59,Sports,"#discount, #trending","stylish, popular, affordable",luxury,18,225,82,56
+reel_786,product_835,user_58,Beauty,"#new, #sale",affordable,vintage,176,52,98,117
+reel_787,product_981,user_143,Beauty,"#shopnow, #trending, #discount","exclusive, affordable",minimalistic,611,427,148,99
+reel_788,product_244,user_70,Electronics,"#discount, #sale, #new","innovative, stylish",luxury,395,354,155,123
+reel_789,product_552,user_89,Electronics,"#sale, #trending, #new",popular,modern,444,499,189,160
+reel_790,product_384,user_52,Fashion,"#shopnow, #trending, #discount","innovative, popular",modern,232,341,262,151
+reel_791,product_922,user_96,Electronics,"#new, #discount",innovative,modern,914,363,79,166
+reel_792,product_509,user_41,Beauty,#trending,"stylish, affordable, popular",vintage,75,279,251,33
+reel_793,product_880,user_108,Home Decor,"#shopnow, #trending","affordable, innovative, stylish",vintage,264,80,96,183
+reel_794,product_865,user_187,Fashion,"#sale, #new","affordable, innovative, stylish",modern,454,201,259,155
+reel_795,product_277,user_140,Fashion,"#trending, #sale","affordable, stylish",minimalistic,795,157,259,164
+reel_796,product_791,user_28,Home Decor,#sale,"popular, innovative",luxury,717,119,102,6
+reel_797,product_415,user_124,Home Decor,"#discount, #new, #sale",innovative,colorful,734,58,39,195
+reel_798,product_935,user_118,Home Decor,"#discount, #trending, #shopnow","popular, stylish, innovative",modern,383,493,272,164
+reel_799,product_508,user_49,Sports,"#discount, #sale, #shopnow","exclusive, popular, stylish",minimalistic,563,214,100,55
+reel_800,product_821,user_134,Electronics,"#shopnow, #trending","innovative, exclusive, stylish",minimalistic,850,127,220,64
+reel_801,product_283,user_107,Electronics,#trending,"innovative, stylish, popular",minimalistic,505,223,123,192
+reel_802,product_299,user_128,Electronics,#sale,"exclusive, innovative",vintage,366,208,230,46
+reel_803,product_587,user_11,Fashion,"#new, #shopnow","affordable, innovative, exclusive",modern,143,369,177,147
+reel_804,product_999,user_83,Fashion,"#discount, #new, #shopnow",exclusive,luxury,884,114,62,18
+reel_805,product_490,user_144,Beauty,#sale,"affordable, popular, stylish",colorful,68,208,115,156
+reel_806,product_149,user_21,Sports,#trending,"stylish, affordable",luxury,98,13,190,187
+reel_807,product_539,user_155,Beauty,#shopnow,"popular, affordable",minimalistic,395,8,61,145
+reel_808,product_346,user_2,Fashion,"#sale, #discount",exclusive,modern,24,39,255,162
+reel_809,product_552,user_111,Sports,"#discount, #sale","popular, affordable",vintage,947,449,6,170
+reel_810,product_544,user_186,Electronics,"#discount, #trending, #sale","stylish, innovative, exclusive",vintage,890,236,154,125
+reel_811,product_456,user_82,Fashion,"#discount, #shopnow, #trending","popular, exclusive",minimalistic,468,280,91,138
+reel_812,product_322,user_188,Electronics,"#sale, #shopnow","stylish, popular",vintage,483,358,13,48
+reel_813,product_189,user_176,Electronics,#shopnow,affordable,luxury,564,200,228,112
+reel_814,product_698,user_96,Home Decor,"#shopnow, #trending",exclusive,vintage,150,245,85,37
+reel_815,product_572,user_40,Beauty,#trending,innovative,modern,143,277,132,63
+reel_816,product_234,user_193,Electronics,#sale,"popular, stylish, exclusive",luxury,568,234,182,68
+reel_817,product_776,user_65,Sports,"#new, #sale, #discount",innovative,luxury,38,493,61,135
+reel_818,product_44,user_130,Fashion,#shopnow,"affordable, stylish",vintage,108,3,218,161
+reel_819,product_745,user_182,Home Decor,"#new, #shopnow, #sale","stylish, exclusive, innovative",modern,692,153,245,175
+reel_820,product_706,user_18,Home Decor,#sale,"stylish, affordable",minimalistic,41,441,229,115
+reel_821,product_812,user_115,Beauty,"#trending, #shopnow","innovative, stylish",luxury,185,28,78,183
+reel_822,product_387,user_108,Electronics,"#new, #trending, #discount","innovative, affordable",colorful,934,108,148,64
+reel_823,product_664,user_145,Home Decor,"#shopnow, #new, #sale",affordable,luxury,397,97,137,30
+reel_824,product_821,user_188,Sports,#new,"innovative, stylish, affordable",vintage,222,214,64,131
+reel_825,product_981,user_183,Fashion,"#new, #discount","popular, stylish, affordable",luxury,633,292,12,112
+reel_826,product_496,user_36,Fashion,#discount,"exclusive, stylish",colorful,132,74,212,108
+reel_827,product_38,user_177,Sports,"#sale, #new, #trending",stylish,colorful,162,325,241,177
+reel_828,product_503,user_36,Sports,#sale,popular,colorful,214,145,212,68
+reel_829,product_591,user_184,Fashion,"#new, #shopnow, #discount","stylish, innovative",minimalistic,732,127,180,157
+reel_830,product_870,user_200,Sports,"#shopnow, #trending",popular,colorful,234,340,172,119
+reel_831,product_875,user_80,Electronics,"#trending, #sale, #discount",affordable,minimalistic,842,41,159,87
+reel_832,product_441,user_100,Beauty,"#shopnow, #sale, #trending","popular, stylish, exclusive",modern,657,355,163,186
+reel_833,product_526,user_188,Beauty,"#shopnow, #new, #trending","stylish, exclusive, innovative",colorful,750,40,187,66
+reel_834,product_457,user_193,Home Decor,"#new, #shopnow, #discount","popular, stylish",colorful,587,421,190,74
+reel_835,product_723,user_186,Electronics,"#shopnow, #new, #sale","popular, innovative, affordable",luxury,8,33,255,44
+reel_836,product_410,user_176,Sports,"#shopnow, #discount, #new","exclusive, stylish, innovative",modern,73,16,182,3
+reel_837,product_655,user_2,Fashion,"#discount, #shopnow, #sale","popular, exclusive",vintage,953,164,116,153
+reel_838,product_155,user_114,Fashion,"#trending, #new, #sale","exclusive, stylish, innovative",colorful,491,152,281,154
+reel_839,product_470,user_22,Sports,#sale,"stylish, popular, affordable",vintage,912,485,195,173
+reel_840,product_970,user_197,Home Decor,#discount,"exclusive, innovative",modern,252,377,33,106
+reel_841,product_339,user_57,Fashion,"#sale, #trending, #new",stylish,minimalistic,229,75,51,191
+reel_842,product_693,user_198,Sports,"#discount, #sale",exclusive,vintage,518,86,111,50
+reel_843,product_650,user_109,Sports,"#new, #trending","stylish, innovative, affordable",vintage,173,116,251,49
+reel_844,product_852,user_99,Electronics,#trending,exclusive,modern,652,361,81,5
+reel_845,product_853,user_188,Fashion,"#new, #shopnow, #sale","affordable, popular",modern,167,341,231,58
+reel_846,product_860,user_171,Home Decor,"#new, #shopnow","exclusive, popular",colorful,169,468,226,124
+reel_847,product_381,user_94,Fashion,#sale,innovative,vintage,392,26,232,142
+reel_848,product_317,user_39,Home Decor,"#new, #shopnow, #trending",stylish,colorful,945,312,220,29
+reel_849,product_719,user_23,Sports,"#shopnow, #sale, #discount",innovative,modern,794,286,41,169
+reel_850,product_760,user_33,Electronics,#new,"exclusive, popular",minimalistic,633,133,20,121
+reel_851,product_873,user_92,Fashion,"#discount, #shopnow","affordable, exclusive, popular",colorful,193,218,41,124
+reel_852,product_36,user_52,Beauty,#trending,"innovative, exclusive, popular",vintage,516,167,112,36
+reel_853,product_69,user_38,Fashion,"#trending, #discount","exclusive, affordable",modern,28,97,104,169
+reel_854,product_632,user_148,Electronics,"#new, #discount, #trending","affordable, stylish",luxury,164,267,191,123
+reel_855,product_921,user_159,Fashion,"#sale, #new, #discount","exclusive, innovative, stylish",minimalistic,421,236,16,100
+reel_856,product_998,user_114,Electronics,"#new, #sale, #discount",exclusive,modern,338,308,119,34
+reel_857,product_747,user_152,Sports,"#new, #shopnow, #sale","stylish, popular, innovative",modern,647,454,128,86
+reel_858,product_434,user_36,Fashion,#new,innovative,colorful,495,393,129,133
+reel_859,product_99,user_172,Beauty,#new,"innovative, stylish, exclusive",modern,364,172,59,195
+reel_860,product_634,user_180,Electronics,"#shopnow, #trending",popular,vintage,832,400,47,17
+reel_861,product_873,user_166,Electronics,"#shopnow, #discount, #sale","popular, affordable, exclusive",minimalistic,341,409,28,112
+reel_862,product_444,user_104,Home Decor,"#sale, #new, #discount","affordable, exclusive, innovative",modern,499,468,96,28
+reel_863,product_695,user_18,Home Decor,"#sale, #new","innovative, stylish",minimalistic,656,475,9,76
+reel_864,product_904,user_134,Fashion,"#sale, #discount","stylish, popular",minimalistic,510,189,241,58
+reel_865,product_46,user_37,Electronics,#new,stylish,colorful,326,121,231,174
+reel_866,product_797,user_29,Fashion,"#new, #trending","innovative, exclusive, popular",luxury,216,45,276,125
+reel_867,product_294,user_65,Fashion,"#new, #trending, #sale","innovative, exclusive, popular",minimalistic,300,63,283,144
+reel_868,product_375,user_50,Sports,"#sale, #trending","affordable, popular, stylish",modern,131,129,202,108
+reel_869,product_146,user_53,Home Decor,#discount,"innovative, stylish",luxury,803,309,246,21
+reel_870,product_532,user_48,Beauty,"#sale, #discount, #new","stylish, exclusive",colorful,69,362,289,67
+reel_871,product_566,user_151,Sports,#trending,"stylish, exclusive",vintage,251,192,263,68
+reel_872,product_793,user_191,Beauty,"#discount, #new",affordable,vintage,414,306,213,164
+reel_873,product_170,user_61,Sports,"#trending, #sale","innovative, affordable",vintage,786,180,199,48
+reel_874,product_79,user_145,Beauty,"#trending, #shopnow, #new",stylish,minimalistic,444,291,78,140
+reel_875,product_871,user_3,Electronics,#discount,innovative,luxury,875,370,172,161
+reel_876,product_620,user_131,Home Decor,"#shopnow, #sale","innovative, exclusive",colorful,181,281,68,108
+reel_877,product_241,user_139,Home Decor,#new,"innovative, affordable",luxury,166,28,86,85
+reel_878,product_913,user_13,Sports,#shopnow,"innovative, exclusive, stylish",minimalistic,90,148,100,52
+reel_879,product_144,user_24,Home Decor,#new,innovative,modern,713,266,7,122
+reel_880,product_462,user_62,Electronics,"#sale, #shopnow","stylish, exclusive",colorful,857,295,199,86
+reel_881,product_254,user_82,Fashion,"#new, #sale, #shopnow","innovative, popular, affordable",luxury,530,10,86,178
+reel_882,product_256,user_101,Electronics,"#trending, #new",affordable,luxury,38,163,42,130
+reel_883,product_10,user_180,Electronics,#trending,affordable,vintage,125,112,108,41
+reel_884,product_805,user_141,Sports,"#new, #shopnow","innovative, affordable",luxury,450,186,151,97
+reel_885,product_902,user_63,Beauty,"#sale, #new","innovative, popular",luxury,172,294,16,159
+reel_886,product_678,user_24,Fashion,#trending,"stylish, exclusive, popular",minimalistic,652,231,132,108
+reel_887,product_158,user_184,Sports,"#sale, #shopnow",innovative,colorful,753,226,147,50
+reel_888,product_442,user_60,Home Decor,"#shopnow, #sale, #discount",exclusive,modern,219,309,276,84
+reel_889,product_346,user_123,Beauty,"#new, #shopnow, #trending","affordable, exclusive",vintage,637,97,231,173
+reel_890,product_588,user_44,Sports,#new,"popular, innovative, stylish",minimalistic,57,54,227,126
+reel_891,product_639,user_27,Sports,"#trending, #shopnow, #sale","exclusive, innovative, affordable",luxury,659,110,138,20
+reel_892,product_425,user_31,Fashion,"#shopnow, #new","innovative, affordable",modern,475,151,210,43
+reel_893,product_251,user_150,Beauty,"#discount, #sale, #shopnow",stylish,colorful,455,245,27,138
+reel_894,product_846,user_122,Electronics,#discount,"affordable, innovative, exclusive",vintage,828,405,50,102
+reel_895,product_200,user_84,Sports,"#sale, #shopnow, #trending","popular, innovative, affordable",modern,894,68,260,67
+reel_896,product_385,user_110,Sports,#sale,popular,vintage,360,311,260,128
+reel_897,product_484,user_95,Fashion,"#discount, #trending","exclusive, stylish, popular",colorful,934,288,7,91
+reel_898,product_238,user_108,Sports,"#shopnow, #discount, #new","popular, affordable, innovative",luxury,0,249,137,190
+reel_899,product_572,user_133,Electronics,"#new, #shopnow","popular, innovative, exclusive",colorful,386,35,37,23
+reel_900,product_575,user_44,Sports,#shopnow,"affordable, popular, exclusive",modern,972,238,110,124
+reel_901,product_993,user_50,Beauty,#discount,"popular, affordable",vintage,347,147,219,140
+reel_902,product_296,user_151,Electronics,"#trending, #sale, #new","popular, stylish, exclusive",luxury,189,466,222,110
+reel_903,product_978,user_175,Sports,"#sale, #discount",innovative,luxury,504,226,135,97
+reel_904,product_659,user_17,Sports,"#discount, #shopnow","innovative, popular",luxury,190,243,255,138
+reel_905,product_275,user_90,Fashion,#trending,affordable,colorful,507,490,48,178
+reel_906,product_566,user_141,Home Decor,#shopnow,"popular, innovative",colorful,368,336,291,16
+reel_907,product_686,user_16,Sports,"#new, #discount","affordable, stylish",luxury,408,445,77,98
+reel_908,product_745,user_113,Beauty,#new,stylish,minimalistic,823,364,104,81
+reel_909,product_50,user_13,Sports,"#discount, #shopnow","popular, affordable",vintage,928,490,168,103
+reel_910,product_607,user_110,Fashion,#sale,exclusive,luxury,933,481,216,151
+reel_911,product_497,user_102,Beauty,"#sale, #new",popular,colorful,116,200,118,18
+reel_912,product_905,user_115,Sports,"#discount, #trending","exclusive, affordable, innovative",colorful,133,153,189,164
+reel_913,product_287,user_30,Home Decor,"#new, #trending","popular, exclusive",vintage,57,449,254,84
+reel_914,product_799,user_66,Home Decor,"#sale, #discount, #new","affordable, popular",vintage,555,72,265,7
+reel_915,product_608,user_105,Fashion,#new,"affordable, popular",minimalistic,684,200,148,27
+reel_916,product_353,user_24,Sports,"#sale, #new, #discount",innovative,colorful,671,295,163,4
+reel_917,product_637,user_42,Sports,"#discount, #shopnow","innovative, affordable",modern,172,16,139,144
+reel_918,product_621,user_117,Home Decor,#shopnow,"stylish, affordable, exclusive",modern,828,128,257,100
+reel_919,product_678,user_19,Electronics,#shopnow,"exclusive, stylish",minimalistic,814,216,268,163
+reel_920,product_721,user_103,Home Decor,#discount,"innovative, stylish",vintage,148,60,180,117
+reel_921,product_660,user_162,Fashion,"#sale, #new",stylish,colorful,79,426,159,146
+reel_922,product_839,user_91,Electronics,#shopnow,"stylish, innovative",vintage,885,103,287,63
+reel_923,product_629,user_103,Electronics,"#discount, #new","innovative, affordable",colorful,212,41,287,90
+reel_924,product_904,user_92,Home Decor,"#trending, #shopnow, #new","affordable, exclusive",minimalistic,202,24,225,116
+reel_925,product_647,user_12,Fashion,"#sale, #discount, #shopnow",exclusive,luxury,763,38,10,97
+reel_926,product_309,user_93,Sports,"#shopnow, #discount, #trending",exclusive,minimalistic,228,290,9,10
+reel_927,product_441,user_162,Electronics,"#sale, #discount, #shopnow","stylish, affordable",vintage,675,130,270,53
+reel_928,product_580,user_145,Fashion,"#discount, #sale","affordable, popular",vintage,226,497,272,172
+reel_929,product_733,user_80,Beauty,"#sale, #discount, #trending","exclusive, stylish",luxury,658,228,182,46
+reel_930,product_91,user_164,Sports,"#sale, #shopnow","exclusive, innovative",luxury,531,107,152,139
+reel_931,product_296,user_150,Sports,#trending,"innovative, exclusive",luxury,440,171,123,148
+reel_932,product_748,user_116,Electronics,"#sale, #trending, #new","innovative, popular, stylish",vintage,401,434,113,138
+reel_933,product_176,user_10,Fashion,#discount,"exclusive, popular, affordable",minimalistic,46,477,277,4
+reel_934,product_133,user_69,Home Decor,"#new, #discount, #shopnow","affordable, stylish",modern,232,101,212,183
+reel_935,product_540,user_13,Sports,"#discount, #trending, #sale","innovative, popular",luxury,304,353,171,19
+reel_936,product_972,user_199,Beauty,"#new, #shopnow, #discount","popular, innovative, exclusive",colorful,525,11,287,168
+reel_937,product_531,user_187,Sports,"#new, #discount, #shopnow","exclusive, stylish",vintage,142,274,173,45
+reel_938,product_914,user_14,Sports,"#sale, #shopnow","innovative, exclusive",vintage,414,100,112,11
+reel_939,product_831,user_187,Sports,"#shopnow, #discount, #sale","stylish, popular",minimalistic,512,43,121,69
+reel_940,product_257,user_7,Electronics,"#sale, #new","affordable, exclusive, stylish",minimalistic,372,442,31,16
+reel_941,product_825,user_82,Sports,"#sale, #shopnow, #new","popular, exclusive",luxury,565,304,221,114
+reel_942,product_482,user_154,Electronics,"#new, #sale, #trending","exclusive, affordable, innovative",vintage,885,444,118,146
+reel_943,product_807,user_154,Fashion,#trending,"stylish, exclusive, popular",colorful,258,16,38,153
+reel_944,product_747,user_196,Electronics,"#shopnow, #discount",affordable,luxury,655,329,267,47
+reel_945,product_339,user_130,Fashion,"#new, #discount, #trending","exclusive, popular, innovative",minimalistic,470,56,232,107
+reel_946,product_116,user_85,Fashion,"#discount, #trending",popular,colorful,952,310,17,51
+reel_947,product_963,user_199,Sports,"#trending, #discount, #sale",exclusive,minimalistic,970,496,148,95
+reel_948,product_141,user_77,Beauty,#shopnow,"innovative, popular",luxury,11,302,148,69
+reel_949,product_967,user_174,Sports,"#new, #discount",affordable,colorful,329,11,125,182
+reel_950,product_861,user_182,Beauty,#new,"popular, affordable, stylish",minimalistic,735,317,237,101
+reel_951,product_725,user_76,Fashion,"#trending, #shopnow, #sale",stylish,vintage,783,79,134,74
+reel_952,product_980,user_137,Sports,#sale,"exclusive, innovative, stylish",vintage,967,215,150,160
+reel_953,product_968,user_133,Beauty,#discount,"exclusive, popular, stylish",luxury,357,338,235,189
+reel_954,product_805,user_108,Sports,"#discount, #trending, #sale",innovative,colorful,971,263,223,150
+reel_955,product_366,user_131,Beauty,#discount,popular,minimalistic,407,478,202,142
+reel_956,product_791,user_70,Electronics,"#shopnow, #discount","innovative, exclusive",minimalistic,667,148,255,154
+reel_957,product_14,user_36,Home Decor,"#trending, #discount, #new","exclusive, stylish",vintage,372,80,85,191
+reel_958,product_537,user_108,Fashion,"#shopnow, #discount","stylish, affordable",luxury,7,214,149,178
+reel_959,product_455,user_106,Electronics,"#new, #trending","stylish, innovative, popular",colorful,121,484,234,180
+reel_960,product_673,user_146,Beauty,#discount,"popular, innovative",vintage,347,373,21,81
+reel_961,product_673,user_45,Fashion,"#sale, #discount, #new",innovative,vintage,675,463,284,91
+reel_962,product_585,user_1,Beauty,#shopnow,"popular, exclusive, affordable",modern,89,197,268,178
+reel_963,product_823,user_5,Sports,"#discount, #new",popular,vintage,647,199,257,174
+reel_964,product_941,user_60,Sports,#sale,innovative,minimalistic,697,24,28,3
+reel_965,product_109,user_135,Electronics,"#discount, #new, #sale",affordable,luxury,315,465,212,134
+reel_966,product_234,user_109,Sports,"#discount, #sale, #shopnow","popular, innovative",vintage,177,88,282,108
+reel_967,product_26,user_107,Sports,"#shopnow, #new, #trending","exclusive, affordable, popular",modern,539,267,49,162
+reel_968,product_885,user_165,Fashion,"#sale, #shopnow, #discount",exclusive,vintage,731,142,94,47
+reel_969,product_562,user_50,Beauty,"#sale, #new","popular, affordable, stylish",minimalistic,868,58,87,72
+reel_970,product_916,user_70,Sports,"#sale, #new, #discount",innovative,colorful,40,409,43,71
+reel_971,product_222,user_56,Sports,#discount,"stylish, popular",colorful,739,488,277,115
+reel_972,product_64,user_188,Electronics,"#shopnow, #discount","innovative, affordable, popular",colorful,703,364,170,172
+reel_973,product_824,user_146,Home Decor,"#new, #discount, #trending","popular, exclusive",minimalistic,922,25,188,80
+reel_974,product_910,user_23,Sports,"#new, #trending","stylish, exclusive, innovative",minimalistic,501,46,183,80
+reel_975,product_303,user_162,Fashion,#shopnow,"popular, affordable, exclusive",luxury,958,287,2,112
+reel_976,product_409,user_84,Beauty,"#new, #shopnow, #sale","affordable, popular, exclusive",modern,144,265,190,95
+reel_977,product_140,user_154,Electronics,"#discount, #trending, #new",popular,colorful,200,15,117,71
+reel_978,product_947,user_177,Sports,#new,innovative,minimalistic,928,198,18,146
+reel_979,product_305,user_4,Fashion,"#shopnow, #sale, #trending","popular, exclusive, innovative",colorful,723,400,22,62
+reel_980,product_493,user_42,Sports,"#sale, #trending","innovative, stylish, exclusive",luxury,460,406,29,37
+reel_981,product_98,user_21,Fashion,"#sale, #new, #trending","stylish, innovative, exclusive",vintage,731,281,294,66
+reel_982,product_888,user_7,Beauty,#shopnow,"exclusive, affordable",modern,751,468,107,186
+reel_983,product_136,user_120,Beauty,"#new, #shopnow","stylish, innovative, popular",colorful,924,85,280,68
+reel_984,product_454,user_141,Sports,#sale,"exclusive, stylish",vintage,908,249,127,12
+reel_985,product_671,user_10,Home Decor,"#trending, #shopnow, #new","stylish, exclusive",vintage,557,390,228,174
+reel_986,product_744,user_149,Electronics,"#new, #trending","affordable, popular, innovative",luxury,546,269,110,188
+reel_987,product_946,user_81,Electronics,"#trending, #discount",affordable,luxury,252,334,135,30
+reel_988,product_420,user_47,Fashion,#shopnow,exclusive,vintage,389,116,185,113
+reel_989,product_743,user_44,Electronics,#new,popular,colorful,593,6,143,21
+reel_990,product_155,user_173,Fashion,#trending,stylish,vintage,882,136,71,92
+reel_991,product_415,user_12,Fashion,"#trending, #discount, #shopnow","popular, exclusive, innovative",minimalistic,255,370,128,170
+reel_992,product_100,user_101,Electronics,"#trending, #discount","popular, innovative, exclusive",modern,708,175,260,66
+reel_993,product_490,user_58,Beauty,"#trending, #shopnow, #new",stylish,minimalistic,814,327,2,53
+reel_994,product_409,user_164,Sports,"#new, #sale, #shopnow","stylish, innovative",modern,920,497,103,137
+reel_995,product_952,user_147,Sports,"#sale, #shopnow","popular, exclusive",minimalistic,449,314,223,41
+reel_996,product_33,user_64,Home Decor,#discount,"stylish, exclusive",minimalistic,9,214,9,63
+reel_997,product_371,user_120,Electronics,"#discount, #new","innovative, popular, stylish",luxury,823,476,230,125
+reel_998,product_444,user_135,Home Decor,"#shopnow, #trending","affordable, innovative",colorful,797,81,218,20
+reel_999,product_951,user_65,Fashion,"#discount, #shopnow",stylish,luxury,241,222,65,193
+reel_1000,product_856,user_61,Home Decor,"#trending, #discount","stylish, innovative, popular",minimalistic,250,477,111,168
